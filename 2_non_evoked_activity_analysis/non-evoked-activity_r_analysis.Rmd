@@ -1,0 +1,359 @@
+---
+title: "Pre-stimulus analysis"
+author: "Tom Su"
+date: "2024-01-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+rm(list = ls())
+
+library(lmerTest)
+library(stringr)
+library(emmeans)
+library(dplyr)
+```
+
+# Importing pre-stimulus data
+
+TODO: give some background on how CSV was generated
+
+```{r import-data, echo=TRUE}
+data <- read.csv("full_results non-evoked-response 2024-02-14.csv")
+evdata <- read.csv("../../1_main_analysis/r_analysis/full_results 2024-02-12.csv")
+
+data$block_amp_abs <- abs(data$block_amp)
+data$block_amp_pol <- ifelse(
+  data$block_amp > 0, "Anodic", ifelse(
+    data$block_amp < 0, "Cathodic", "Control"
+  )
+)
+
+data$time <- as.numeric(str_sub(data$filename, -6, -1))
+data$time[data$time < 90000] <- (data$time[data$time < 90000] + 240000)
+
+data$rec_ID <- paste(data$animal_ID,data$position,data$stim_type)
+data$rec_ID <- gsub(" ", "", data$rec_ID)
+
+bin_width = 1
+```
+
+# Extract channel data from evoked dataset
+
+``` {r chan-extract}
+channels <- evdata[, c("animal_ID", "position", "stim_code", "channels")]
+channels$rec_ID <- paste(channels$animal_ID,channels$position,channels$stim_code)
+channels$rec_ID <- gsub(" ", "", channels$rec_ID)
+
+channels <- distinct (channels)
+
+
+channels$channels <- str_sub(channels$channels, 2, -2) 
+numbers <- unlist(strsplit(channels$channels, split = ", "))
+ 
+channels$channel1 <- numbers[c(TRUE, rep(FALSE, 2))]
+channels$channel2 <- numbers[c(FALSE, TRUE, FALSE)]
+channels$channel3 <- numbers[c(rep(FALSE, 2), TRUE)]
+```
+
+
+# Make a new dataframe which is only data from channels we analysed for spikesorting
+
+``` {r chan-extract}
+
+subdata <- merge(data, channels, by = "rec_ID")
+subdata <- subset(subdata, subdata$channel == subdata$channel1 | subdata$channel == subdata$channel2 | subdata$channel == subdata$channel3)
+subdata <- subdata %>% rename (animal_ID = animal_ID.x, position = position.x)
+```
+
+
+
+# Spike frequency histograms
+
+TODO: write a description for this section
+
+## Population histogram
+
+```{r pop-hist}
+hist(
+  data$spike_frequency,
+  main = "Pre-stimulus spike rate (full dataset)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(data$spike_frequency))) %/% bin_width
+)
+
+hist(
+  subdata$spike_frequency,
+  main = "Pre-stimulus spike rate (full dataset)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(subdata$spike_frequency))) %/% bin_width
+)
+```
+
+## Spike rate by absolute DC amplitude/pain model
+
+```{r dc-hists}
+for (i in c("SPC", "CFA", "SNT")){
+  
+  condata <- subset(data, data$condition == i)
+  
+  predc_freqs <- subset(condata$spike_frequency, condata$block_amp == 0)
+  hist(
+    predc_freqs,
+    main = str_c("Pre-stimulus spike rate (", i, " pre-DC)"),
+    xlab = "Spike rate (Hz)",
+    xlim = c(0, 150),
+    breaks = min(c(150, max(predc_freqs))) %/% bin_width
+  )
+  
+  dc_freqs <- subset(condata$spike_frequency, condata$block_amp != 0)
+  hist(
+    dc_freqs,
+    main = str_c("Pre-stimulus spike rate (", i, " DC)"),
+    xlab = "Spike rate (Hz)",
+    xlim = c(0, 150),
+    breaks = min(c(150, max(dc_freqs))) %/% bin_width
+  )
+  
+  for (amp_abs in c(500, 1000)) {
+    amp_abs_freqs <- subset(condata$spike_frequency, condata$block_amp_abs == amp_abs)
+    hist(
+      amp_abs_freqs,
+      main = str_c("Pre-stimulus spike rate (", i, " ±", amp_abs, " μA)"),
+      xlab = "Spike rate (Hz)",
+      xlim = c(0, 150),
+      breaks = min(c(150, max(amp_abs_freqs))) %/% bin_width
+    )
+  }
+}
+```
+
+## Spike rate by absolute DC amplitude/pain model in evoked channels only
+
+```{r dc-hists}
+for (i in c("SPC", "CFA", "SNT")){
+  
+  condata <- subset(subdata, subdata$condition == i)
+  
+  predc_freqs <- subset(condata$spike_frequency, condata$block_amp == 0)
+  hist(
+    predc_freqs,
+    main = str_c("Pre-stimulus spike rate (", i, " pre-DC)"),
+    xlab = "Spike rate (Hz)",
+    xlim = c(0, 150),
+    breaks = min(c(150, max(predc_freqs))) %/% bin_width
+  )
+  
+  dc_freqs <- subset(condata$spike_frequency, condata$block_amp != 0)
+  hist(
+    dc_freqs,
+    main = str_c("Pre-stimulus spike rate (", i, " DC)"),
+    xlab = "Spike rate (Hz)",
+    xlim = c(0, 150),
+    breaks = min(c(150, max(dc_freqs))) %/% bin_width
+  )
+  
+  for (amp_abs in c(500, 1000)) {
+    amp_abs_freqs <- subset(condata$spike_frequency, condata$block_amp_abs == amp_abs)
+    hist(
+      amp_abs_freqs,
+      main = str_c("Pre-stimulus spike rate (", i, " ±", amp_abs, " μA)"),
+      xlab = "Spike rate (Hz)",
+      xlim = c(0, 150),
+      breaks = min(c(150, max(amp_abs_freqs))) %/% bin_width
+    )
+  }
+}
+```
+
+## Spike rate by pain model
+
+```{r cond-hists}
+spc_freqs <- subset(data$spike_frequency, data$condition == "SPC")
+
+hist(
+  spc_freqs,
+  main = "Pre-stimulus spike rate (all SPC)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(spc_freqs))) %/% bin_width
+)
+
+snt_freqs <- subset(data$spike_frequency, data$condition == "SNT")
+hist(
+  snt_freqs,
+  main = "Pre-stimulus spike rate (all SNT)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(snt_freqs))) %/% bin_width
+)
+
+cfa_freqs <- subset(data$spike_frequency, data$condition == "CFA")
+hist(
+  cfa_freqs,
+  main = "Pre-stimulus spike rate (all CFA)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(cfa_freqs))) %/% bin_width
+)
+
+spc_freqs <- subset(subdata$spike_frequency, subdata$condition == "SPC")
+mean <- mean(spc_freqs)
+med <- median (spc_freqs)
+
+hist(
+  spc_freqs,
+  main = "Pre-stimulus spike rate (all SPC)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(spc_freqs))) %/% bin_width
+)
+
+  abline(v = med, col = 'red')
+  abline(v = mean, col = 'blue')
+
+snt_freqs <- subset(subdata$spike_frequency, subdata$condition == "SNT")
+mean <- mean(snt_freqs)
+med <- median (snt_freqs)
+
+hist(
+  snt_freqs,
+  main = "Pre-stimulus spike rate (all SNT)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(snt_freqs))) %/% bin_width
+)
+
+  abline(v = med, col = 'red')
+  abline(v = mean, col = 'blue')
+
+cfa_freqs <- subset(subdata$spike_frequency, subdata$condition == "CFA")
+mean <- mean(cfa_freqs)
+med <- median (cfa_freqs)
+
+hist(
+  cfa_freqs,
+  main = "Pre-stimulus spike rate (all CFA)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(cfa_freqs))) %/% bin_width
+)
+
+  abline(v = med, col = 'red')
+  abline(v = mean, col = 'blue')
+```
+
+## Spike rate by stimulus
+
+```{r stim-hists}
+laser_freqs <- subset(data$spike_frequency, data$stim_type == "L1")
+hist(
+  laser_freqs,
+  main = "Pre-stimulus spike rate (All L1)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(laser_freqs))) %/% bin_width
+)
+
+press_freqs <- subset(data$spike_frequency, data$stim_type == "M3")
+hist(
+  press_freqs,
+  main = "Pre-stimulus spike rate (All M3)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(press_freqs))) %/% bin_width
+)
+
+prop_freqs <- subset(data$spike_frequency, data$stim_type == "M2")
+hist(
+  prop_freqs,
+  main = "Pre-stimulus spike rate (All M2)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(prop_freqs))) %/% bin_width
+)
+
+tactile_freqs <- subset(data$spike_frequency, data$stim_type == "M1")
+hist(
+  tactile_freqs,
+  main = "Pre-stimulus spike rate (All M1)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(tactile_freqs))) %/% bin_width
+)
+```
+
+## Spike rate by sex
+
+```{r sex-hists}
+male_freqs <- subset(data$spike_frequency, data$sex == "M")
+hist(
+  male_freqs,
+  main = "Pre-stimulus spike rate (All male)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(male_freqs))) %/% bin_width
+)
+
+female_freqs <- subset(data$spike_frequency, data$sex == "F")
+hist(
+  female_freqs,
+  main = "Pre-stimulus spike rate (All female)",
+  xlab = "Spike rate (Hz)",
+  xlim = c(0, 150),
+  breaks = min(c(150, max(female_freqs))) %/% bin_width
+)
+```
+
+## Spike rate by time
+
+```{r sex-hists}
+time_freqs <- subset(data, data$block_amp_abs == "0")
+plot(time_freqs$time, time_freqs$spike_frequency,
+  main = "Pre-stimulus spike rate",
+  xlab="time", ylab="spike frequency", pch=19)
+
+
+time_freqs <- subset(data, data$block_amp_abs == "1000")
+plot(time_freqs$time, time_freqs$spike_frequency,
+  main = "Pre-stimulus spike rate",
+  xlab="time", ylab="spike frequency", pch=19)
+```
+
+# Statistical analyses
+
+## ANOVAs
+
+```{r anovas, echo=TRUE}
+
+data$block_amp_abs <- factor(data$block_amp_abs, levels = c( 0, 500, 1000)) #set as categorical, relationship not expected to be linear
+data$block_amp <- factor(data$block_amp, levels = c(0, 500, -500, 1000, -1000))
+
+data <- subset(data, data$stim_type != "E1") #E1 data has no iDC, causing rank deficiency
+
+linear_model1 <- lmer(spike_frequency ~ block_amp_pol + (1|animal_ID/rec_ID), data = data) #first test for polarity - can't test together as pol and amp are mutually exclusive
+anova(linear_model1)
+mod = linear_model1
+emmeans(mod, pairwise ~block_amp_pol)
+
+linear_model2 <- lmer(spike_frequency ~ condition * block_amp_abs + sex + (1|animal_ID/rec_ID), data = data)
+anova(linear_model2)
+mod = linear_model2
+emmeans(mod, pairwise ~block_amp_abs|condition)
+
+length(unique(data$rec_ID))
+
+dataset <- data
+
+dataset1 <- subset(dataset, dataset$condition == "SNT")
+dataset2<- subset(dataset1, dataset1$block_amp_abs == "0")
+dataset3<- subset(dataset1, dataset1$block_amp_abs == "500")
+dataset4<- subset(dataset1, dataset1$block_amp_abs == "1000")
+
+length(unique(dataset2$rec_ID)) *32
+length(unique(dataset3$rec_ID)) *32
+length(unique(dataset4$rec_ID)) *32
+```

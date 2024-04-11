@@ -1,0 +1,301 @@
+---
+title: "spike timing analysis for ephys paper"
+author: "Felix Aplin"
+date: "2024-01-24"
+output:
+  html_document:
+    code_folding: hide
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Spike timing window calculation
+
+The purpose of this experiment is to use spike frequency distributions to determine 'windows' of analysis
+
+### variables: 
+
+The datafile is a .csv file with spike timings in four columns, corresponding to the four stimulation paradigms (Tactile, Thermal, Pinch, Proprio).
+
+
+### initial setup:
+
+Run the following block to clear the workspace and import the relevant packages. Add more as necessary. You may not need many of these packages for this script but doesn't hurt to include them. 
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+
+rm(list = ls()) # this empties the workspace
+# source('summarySE.R') # contains plyr
+library(ggplot2)
+library(dplyr)
+library(ggpubr) # for ggarange
+library(relaimpo) # for calc.relimp
+library(car) # needed fro qqp
+library(sjPlot) # needed for plot_model
+library(rsample) # required for spitting data into training and testing
+library(plotly)
+library(see)
+library(patchwork)
+library(Hmisc)
+
+library(lmerTest)
+library(emmeans)
+library(ordinal)
+library(ggeffects)
+library(sjmisc)
+library(rstatix) # for effect size: anova_test(), values ges or pes
+library(simr)
+
+library(MASS) #for distribution fitting
+#library(fitdistrplus)
+
+pd = 0.2 # this is for plotting, it just defines the "position dodge"
+
+
+#+++++++++++++++++++++++++
+# Function to calculate the mean and the standard deviation
+  # for each group
+#+++++++++++++++++++++++++
+# data : a data frame
+# varname : the name of a column containing the variable to be summariezed
+# groupnames : vector of column names to be used as  grouping variables
+data_summary <- function(data, varname, groupnames){
+  require(plyr)
+  summary_func <- function(x, col){
+    c(mean = mean(x[[col]], na.rm=TRUE),
+      sd = sd(x[[col]], na.rm=TRUE))
+  }
+  data_sum<-ddply(data, groupnames, .fun=summary_func,
+                  varname)
+  data_sum <- rename(data_sum, c("mean" = varname))
+ return(data_sum)
+}
+
+```
+
+### Import data:
+
+The following imports the data and refines the selection of data to collect only what you want.
+
+
+```{r}
+
+Laser <- read.csv("spike_timing_histogram_thermal.csv") # this makes a dataframe (df). You call the columns as follows: df$column_name. 
+
+Press <- read.csv("spike_timing_histogram_press.csv")
+
+Tactile <- read.csv("spike_timing_histogram_tactile.csv")
+
+Prop <- read.csv("spike_timing_histogram_proprioceptive.csv")
+
+
+```
+
+
+```{r}
+
+freq <- Tactile
+#freq$Count <- (freq$Count - min(freq$Count)) + 1
+
+respfreq <- subset(freq, freq$Bin >= 0)
+prefreq <- subset(freq, freq$Bin < 0)
+
+baseline <- mean(prefreq$Count)
+baseSD <- sd(prefreq$Count)
+
+meanvalue <- mean(freq$Count)
+max_value <- max(freq$Count)
+max_position <- which.max(freq$Count)
+length = length(freq$Count)
+
+
+#thresholding approach
+threshold <- baseline * 1.5
+
+responsebins <- which(respfreq$Count > threshold)
+responsewin <- c(min(responsebins), max(responsebins))
+print(paste0("Responsive window (thresh): ", respfreq$Bin[responsewin]))
+
+#statistical approach
+# 
+# # Test each bin for significant difference using t-tests
+# p_values <- sapply(respfreq$Count, function(x) {
+#   t.test(prefreq$Count, )$p.value
+# })
+# 
+# # Correct for multiple comparisons using Bonferroni correction
+# alpha_corrected <- 0.05 
+# 
+# # Identify significant bins based on adjusted alpha
+# significant_bins <- which(p_values < alpha_corrected)
+# 
+# # Define responsive window (assuming contiguous significant bins)
+# responsive_window <- c(min(significant_bins), max(significant_bins))
+# 
+# print(paste0("Responsive window (stats): ", respfreq$Bin[responsive_window]))
+
+# half_max_positions <- which(data >= max_value/2)
+# left_position <- min(half_max_positions)
+# right_position <- max(half_max_positions)
+
+
+# fwhm <- freq$Bin[right_position] - freq$Bin[left_position]
+
+
+
+# fit <- fitdist(data, "gamma", method= "mme")
+# SD <- sqrt(fit$estimate[1]/fit$estimate[2])
+# SD <- SD*10
+
+```
+
+
+
+
+
+```{r}
+
+freq <- Laser
+#freq$Count <- (freq$Count - min(freq$Count)) + 1
+
+respfreq <- subset(freq, freq$Bin >= 0)
+prefreq <- subset(freq, freq$Bin < 0)
+
+baseline <- mean(prefreq$Count)
+baseSD <- sd(prefreq$Count)
+
+meanvalue <- mean(freq$Count)
+max_value <- max(freq$Count)
+max_position <- which.max(freq$Count)
+length = length(freq$Count)
+
+threshold <- baseline * 1.5
+
+responsebins <- which(respfreq$Count > threshold)
+responsewin <- c(min(responsebins), max(responsebins))
+print(paste0("Responsive window: ", respfreq$Bin[responsewin]))
+
+# half_max_positions <- which(data >= max_value/2)
+# left_position <- min(half_max_positions)
+# right_position <- max(half_max_positions)
+
+
+# fwhm <- freq$Bin[right_position] - freq$Bin[left_position]
+
+
+
+# fit <- fitdist(data, "gamma", method= "mme")
+# SD <- sqrt(fit$estimate[1]/fit$estimate[2])
+# SD <- SD*10
+
+```
+
+```{r}
+
+freq <- Press
+#freq$Count <- (freq$Count - min(freq$Count)) + 1
+
+respfreq <- subset(freq, freq$Bin >= 0)
+prefreq <- subset(freq, freq$Bin < 0)
+
+baseline <- mean(prefreq$Count)
+baseSD <- sd(prefreq$Count)
+
+meanvalue <- mean(freq$Count)
+max_value <- max(freq$Count)
+max_position <- which.max(freq$Count)
+length = length(freq$Count)
+
+threshold <- baseline * 1.5
+
+responsebins <- which(respfreq$Count > threshold)
+responsewin <- c(min(responsebins), max(responsebins))
+print(paste0("Responsive window: ", respfreq$Bin[responsewin]))
+
+# half_max_positions <- which(data >= max_value/2)
+# left_position <- min(half_max_positions)
+# right_position <- max(half_max_positions)
+
+
+# fwhm <- freq$Bin[right_position] - freq$Bin[left_position]
+
+
+
+# fit <- fitdist(data, "gamma", method= "mme")
+# SD <- sqrt(fit$estimate[1]/fit$estimate[2])
+# SD <- SD*10
+
+```
+
+```{r}
+
+freq <- Prop
+#freq$Count <- (freq$Count - min(freq$Count)) + 1
+
+respfreq <- subset(freq, freq$Bin >= 0)
+prefreq <- subset(freq, freq$Bin < 0)
+
+baseline <- mean(prefreq$Count)
+baseSD <- sd(prefreq$Count)
+
+meanvalue <- mean(freq$Count)
+max_value <- max(freq$Count)
+max_position <- which.max(freq$Count)
+length = length(freq$Count)
+
+threshold <- baseline * 1.5
+
+responsebins <- which(respfreq$Count > threshold)
+responsewin <- c(min(responsebins), max(responsebins))
+print(paste0("Responsive window: ", respfreq$Bin[responsewin]))
+
+# half_max_positions <- which(data >= max_value/2)
+# left_position <- min(half_max_positions)
+# right_position <- max(half_max_positions)
+
+
+# fwhm <- freq$Bin[right_position] - freq$Bin[left_position]
+
+
+
+# fit <- fitdist(data, "gamma", method= "mme")
+# SD <- sqrt(fit$estimate[1]/fit$estimate[2])
+# SD <- SD*10
+
+```
+
+#Plot the data
+
+```{r}
+
+
+plot_data <- data.frame(midpoints = freq$Bin, frequencies = freq$Count)
+
+# Plot the histogram with ggplot2
+ggplot(plot_data, aes(x = midpoints, y = frequencies)) +
+  geom_bar(stat = "identity", fill = "lightblue", color = "black") +
+  stat_function(fun=function(x) dgamma(x, shape = fit$estimate[1], scale = fit$estimate[2]) * 300, color = "blue", size = 1.5) +
+
+  labs(title = "Histogram with Fitted Gamma Distribution",
+       x = "Peristimulus Time", y = "Frequency") +
+
+  # Add a legend
+  scale_fill_manual(values = "lightblue") +
+  scale_color_manual(values = "darkred") +
+  guides(fill = guide_legend("Histogram"), color = guide_legend("Fitted Gamma"))
+
+# # Create the ggplot
+# ggplot(spike_datapos, aes(x = spike_d)) +
+#   geom_histogram(aes(y = spike_datapos$press), bins = 30, fill = "lightblue", alpha = 0.7) +
+# #  geom_line(aes(y = y_curve), color = "red", size = 1.5) +
+#   labs(title = "Fitted Gamma Distribution", x = "Values", y = "Density") +
+#   theme_minimal()
+```

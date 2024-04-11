@@ -1,0 +1,2342 @@
+---Template Generation 2024-02-18T06:46:47.146---
+
+filename - loading output missing
+
+
+---Spikesorting 2024-02-18T13:00:30.697---
+
+SNT07-4-pinch2 pinch idc-1000 recov1-4 100 0 M3 [31, 32, 33, 34, 35] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - only 46 trials
+
+SNT07-4-pinch2 pinch idc-1000 recov10-4 100 0 M3 [36, 37, 38, 39, 40] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - only 46 trials
+
+
+---CSV Exporting 2024-02-18T16:48:45.734---
+
+SNT07-4-pinch2 pinch idc-1000 recov1-4 100 0 M3 [31, 32, 33, 34, 35] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-1000 recov10-4 100 0 M3 [36, 37, 38, 39, 40] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+
+---CSV Exporting (sustained thermal response) 2024-02-18T17:28:47.075---
+
+SNT07-4-pinch2 pinch idc-1000 recov1-4 100 0 M3 [31, 32, 33, 34, 35] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-1000 recov10-4 100 0 M3 [36, 37, 38, 39, 40] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+
+---CSV Exporting 2024-04-11T18:52:09.786---
+
+SPC10-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27]-1 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SPC11-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27]-1 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC11-1-tactile2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 18]-1 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 18] - spikesorting output missing
+
+SPC13-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M1 [1, 2, 3, 4, 5] [4, 15, 20] - spikesorting output missing
+
+SPC13-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M1 [1, 2, 3, 4, 5] [4, 15, 20] - spikesorting output missing
+
+SPC13-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M1 [1, 2, 3, 4, 5] [4, 15, 20] - spikesorting output missing
+
+SPC13-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M1 [1, 2, 3, 4, 5] [4, 15, 20] - spikesorting output missing
+
+SPC14-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [5, 10, 14]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 10, 14] - spikesorting output missing
+
+SPC14-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [5, 10, 14]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 10, 14] - spikesorting output missing
+
+SPC14-3-tactile1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27]-3 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC14-3-tactile1 shaker-3 100 0 M1 [6, 7, 8, 9, 10] [11, 22, 27]-3 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC15-1-prop1 spon-1 0 0 M2 [1, 2, 3, 4, 5] [3, 13, 15]-1 2 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC15-1-prop1 motor-1 2 0 M2 [1, 2, 3, 4, 5] [3, 13, 15]-1 2 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC15-1-prop1 motor-1 2 0 M2 [6, 7, 8, 9, 10] [3, 13, 15]-1 2 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC15-1-prop1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [3, 13, 15]-1 2 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC15-1-prop2 spon-1 0 0 M2 [1, 2, 3, 4, 5] [8, 11, 24]-1 2 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC15-1-prop2 motor-1 2 0 M2 [1, 2, 3, 4, 5] [8, 11, 24]-1 2 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC15-1-prop2 motor-1 2 0 M2 [6, 7, 8, 9, 10] [8, 11, 24]-1 2 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC15-1-prop2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [8, 11, 24]-1 2 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC15-2-prop1 motor-2 2 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-2 2 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC15-2-prop1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25]-2 2 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC15-2-prop1 spon-2 0 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-2 2 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC15-2-prop1 motor-2 2 0 M2 [6, 7, 8, 9, 10] [9, 24, 25]-2 2 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC15-2-prop2 motor-2 2 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-2 2 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC15-2-prop2 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30]-2 2 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC15-2-prop2 spon-2 0 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-2 2 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC15-2-prop2 motor-2 2 0 M2 [6, 7, 8, 9, 10] [10, 20, 30]-2 2 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC15-2-tactile1 motor-2 2 0 M2 [1, 2, 3, 4, 5] [1, 6, 17]-2 100 0 M1 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC15-2-tactile1 spon-2 0 0 M2 [1, 2, 3, 4, 5] [1, 6, 17]-2 100 0 M1 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC15-2-tactile1 shaker-2 100 0 M1 [6, 7, 8, 9, 10] [1, 6, 17]-2 100 0 M1 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC15-2-tactile1 motor-2 2 0 M2 [6, 7, 8, 9, 10] [1, 6, 17]-2 100 0 M1 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC16-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc6000 recov0.5-1 100 0 M1 [11, 12, 13, 14, 15] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc6000 recov1.5-1 100 0 M1 [16, 17, 18, 19, 20] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500 recov1-1 100 0 M1 [21, 22, 23, 24, 25] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500 recov12-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc2000 recov1.5-1 100 0 M1 [31, 32, 33, 34, 35] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc1000-1 100 1000 M1 [6, 7, 8, 9, 10] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc1000 recov0.5-1 100 0 M1 [36, 37, 38, 39, 40] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc1000-1 100 1000 M1 [11, 12, 13, 14, 15] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc1000-1 100 1000 M1 [16, 17, 18, 19, 20] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc1000 recov0.5-1 100 0 M1 [41, 42, 43, 44, 45] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc2000 recov0.5-1 100 0 M1 [46, 47, 48, 49, 50] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500-1 100 500 M1 [6, 7, 8, 9, 10] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500 recov0.5-1 100 0 M1 [51, 52, 53, 54, 55] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500 recov2-1 100 0 M1 [56, 57, 58, 59, 60] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500 recov3.5-1 100 0 M1 [61, 62, 63, 64, 65] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500-1 100 500 M1 [11, 12, 13, 14, 15] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500-1 100 500 M1 [16, 17, 18, 19, 20] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC16-1-tactile1 shaker idc500 recov0.5-1 100 0 M1 [66, 67, 68, 69, 70] [18, 21, 31]-1 100 0 M1 [26, 27, 28, 29, 30] [18, 21, 31] - spikesorting output missing
+
+SPC17-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC17-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC17-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [14, 19, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC17-1-tactile1 motor-1 2 0 M2 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC18-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [2, 12, 23]-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23] - spikesorting output missing
+
+SPC18-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [2, 12, 23]-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23] - spikesorting output missing
+
+SPC18-1-tactile1 motor-1 2 0 M2 [1, 2, 3, 4, 5] [2, 12, 23]-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23] - spikesorting output missing
+
+SPC18-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23]-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23] - spikesorting output missing
+
+SPC18-1-tactile1 shaker idc-1000-1 100 -1000 M1 [1, 2, 3, 4, 5] [2, 12, 23]-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23] - spikesorting output missing
+
+SPC18-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [2, 12, 23]-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23] - spikesorting output missing
+
+SPC18-1-tactile1 shaker idc1000-1 100 1000 M1 [6, 7, 8, 9, 10] [2, 12, 23]-1 100 0 M1 [6, 7, 8, 9, 10] [2, 12, 23] - spikesorting output missing
+
+SPC18-2-prop1 spon-2 0 0 M1 [1, 2, 3, 4, 5] [2, 12, 23]-2 4 0 M2 [1, 2, 3, 4, 5] [2, 12, 23] - spikesorting output missing
+
+SPC18-2-prop1 spon-2 0 0 M1 [6, 7, 8, 9, 10] [2, 12, 23]-2 4 0 M2 [1, 2, 3, 4, 5] [2, 12, 23] - spikesorting output missing
+
+SPC18-2-prop1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [2, 12, 23]-2 4 0 M2 [1, 2, 3, 4, 5] [2, 12, 23] - spikesorting output missing
+
+SPC18-2-prop1 motor-2 4 0 M2 [1, 2, 3, 4, 5] [2, 12, 23]-2 4 0 M2 [1, 2, 3, 4, 5] [2, 12, 23] - spikesorting output missing
+
+SPC18-3-prop1 spon-3 0 0 M1 [1, 2, 3, 4, 5] [18, 21, 31]-3 2 0 M2 [1, 2, 3, 4, 5] [18, 21, 31] - spikesorting output missing
+
+SPC18-3-prop1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [18, 21, 31]-3 2 0 M2 [1, 2, 3, 4, 5] [18, 21, 31] - spikesorting output missing
+
+SPC18-3-prop1 motor-3 2 0 M2 [1, 2, 3, 4, 5] [18, 21, 31]-3 2 0 M2 [1, 2, 3, 4, 5] [18, 21, 31] - spikesorting output missing
+
+SPC18-3-prop2 spon-3 0 0 M1 [1, 2, 3, 4, 5] [19, 28, 29]-3 2 0 M2 [1, 2, 3, 4, 5] [19, 28, 29] - spikesorting output missing
+
+SPC18-3-prop2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [19, 28, 29]-3 2 0 M2 [1, 2, 3, 4, 5] [19, 28, 29] - spikesorting output missing
+
+SPC18-3-prop2 motor-3 2 0 M2 [1, 2, 3, 4, 5] [19, 28, 29]-3 2 0 M2 [1, 2, 3, 4, 5] [19, 28, 29] - spikesorting output missing
+
+SPC18-4-prop1 spon-4 0 0 M1 [1, 2, 3, 4, 5] [3, 13, 15]-4 4 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC18-4-prop1 motor-4 4 0 M2 [1, 2, 3, 4, 5] [3, 13, 15]-4 4 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC18-4-prop1 shaker-4 100 0 M1 [1, 2, 3, 4, 5] [3, 13, 15]-4 4 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC18-4-prop1 spon-4 0 0 M1 [6, 7, 8, 9, 10] [3, 13, 15]-4 4 0 M2 [1, 2, 3, 4, 5] [3, 13, 15] - spikesorting output missing
+
+SPC19-1-prop1 spon-1 0 0 M2 [1, 2, 3, 4, 5] [3, 4, 15]-1 4 0 M2 [1, 2, 3, 4, 5] [3, 4, 15] - spikesorting output missing
+
+SPC19-1-prop1 motor-1 4 0 M2 [1, 2, 3, 4, 5] [3, 4, 15]-1 4 0 M2 [1, 2, 3, 4, 5] [3, 4, 15] - spikesorting output missing
+
+SPC19-1-prop1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [3, 4, 15]-1 4 0 M2 [1, 2, 3, 4, 5] [3, 4, 15] - spikesorting output missing
+
+SPC19-1-prop1 motor-1 4 0 M2 [6, 7, 8, 9, 10] [3, 4, 15]-1 4 0 M2 [1, 2, 3, 4, 5] [3, 4, 15] - spikesorting output missing
+
+SPC19-1-prop1 motor idc6000 recov0.5-1 4 0 M2 [11, 12, 13, 14, 15] [3, 4, 15]-1 4 0 M2 [1, 2, 3, 4, 5] [3, 4, 15] - spikesorting output missing
+
+SPC19-1-prop1 motor idc6000 recov1.5-1 4 0 M2 [16, 17, 18, 19, 20] [3, 4, 15]-1 4 0 M2 [1, 2, 3, 4, 5] [3, 4, 15] - spikesorting output missing
+
+SPC20-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [16, 26, 32]-1 100 0 M1 [1, 2, 3, 4, 5] [16, 26, 32] - spikesorting output missing
+
+SPC20-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [16, 26, 32]-1 100 0 M1 [1, 2, 3, 4, 5] [16, 26, 32] - spikesorting output missing
+
+SPC20-1-tactile1 motor-1 4 0 M2 [1, 2, 3, 4, 5] [16, 26, 32]-1 100 0 M1 [1, 2, 3, 4, 5] [16, 26, 32] - spikesorting output missing
+
+SPC20-1-prop1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [8, 24, 25]-1 4 0 M2 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC20-1-prop1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25]-1 4 0 M2 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC20-1-prop1 motor-1 4 0 M2 [1, 2, 3, 4, 5] [8, 24, 25]-1 4 0 M2 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC20-2-tactile1 spon-2 0 0 M1 [1, 2, 3, 4, 5] [1, 12, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17] - spikesorting output missing
+
+SPC20-2-tactile1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17] - spikesorting output missing
+
+SPC20-2-tactile1 motor-2 4 0 M2 [1, 2, 3, 4, 5] [1, 12, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17] - spikesorting output missing
+
+SPC20-2-tactile1 shaker idc1000-2 100 1000 M1 [1, 2, 3, 4, 5] [1, 12, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17] - spikesorting output missing
+
+SPC20-2-tactile1 shaker idc1000 recov0.5-2 100 0 M1 [6, 7, 8, 9, 10] [1, 12, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17] - spikesorting output missing
+
+SPC20-2-tactile1 shaker idc-1000-2 100 -1000 M1 [1, 2, 3, 4, 5] [1, 12, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17] - spikesorting output missing
+
+SPC20-2-tactile1 shaker idc-1000 recov0.5-2 100 0 M1 [11, 12, 13, 14, 15] [1, 12, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [1, 12, 17] - spikesorting output missing
+
+SPC20-2-tactile2 spon-2 0 0 M1 [1, 2, 3, 4, 5] [10, 20, 30]-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC20-2-tactile2 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30]-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC20-2-tactile2 motor-2 4 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC20-2-tactile2 shaker idc1000-2 100 1000 M1 [1, 2, 3, 4, 5] [10, 20, 30]-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC20-2-tactile2 shaker idc1000 recov0.5-2 100 0 M1 [6, 7, 8, 9, 10] [10, 20, 30]-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC20-2-tactile2 shaker idc-1000-2 100 -1000 M1 [1, 2, 3, 4, 5] [10, 20, 30]-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC20-2-tactile2 shaker idc-1000 recov0.5-2 100 0 M1 [11, 12, 13, 14, 15] [10, 20, 30]-2 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC21-1-prop1 motor-1 4 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-1 4 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC21-1-prop1 motor-1 4 0 M2 [6, 7, 8, 9, 10] [9, 24, 25]-1 4 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC21-1-prop2 motor-1 4 0 M2 [1, 2, 3, 4, 5] [21, 26, 31]-1 4 0 M2 [1, 2, 3, 4, 5] [21, 26, 31] - spikesorting output missing
+
+SPC21-1-prop2 motor-1 4 0 M2 [6, 7, 8, 9, 10] [21, 26, 31]-1 4 0 M2 [1, 2, 3, 4, 5] [21, 26, 31] - spikesorting output missing
+
+SPC21-2-tactile1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 spon-2 0 0 M1 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor-2 4 0 M2 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 shaker-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 shaker idc1000-2 100 1000 M1 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 shaker idc1000 recov0.5-2 100 0 M1 [11, 12, 13, 14, 15] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 shaker idc2000 recov 1.5-2 100 0 M1 [16, 17, 18, 19, 20] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 shaker idc-1000-2 100 -1000 M1 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor idc-1000 recov5-2 4 0 M2 [6, 7, 8, 9, 10] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor idc1000-2 4 1000 M2 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor idc1000 recov1-2 4 0 M2 [11, 12, 13, 14, 15] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor idc-1000-2 4 -1000 M2 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor idc-1000 recov1-2 4 0 M2 [16, 17, 18, 19, 20] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor idc2000 recov1-2 4 0 M2 [21, 22, 23, 24, 25] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 motor idc1000-2 4 1000 M2 [6, 7, 8, 9, 10] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 spon idc1000 recov5.5-2 0 0 M1 [6, 7, 8, 9, 10] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 spon idc1000-2 0 1000 M1 [1, 2, 3, 4, 5] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-tactile1 spon idc1000 recov0.5-2 0 0 M1 [11, 12, 13, 14, 15] [19, 28, 29]-2 100 0 M1 [6, 7, 8, 9, 10] [19, 28, 29] - spikesorting output missing
+
+SPC21-2-prop1 spon-2 0 0 M1 [1, 2, 3, 4, 5] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor-2 4 0 M2 [1, 2, 3, 4, 5] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor idc-1000 recov5-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor idc1000-2 4 1000 M2 [1, 2, 3, 4, 5] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor idc1000 recov1-2 4 0 M2 [11, 12, 13, 14, 15] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor idc-1000-2 4 -1000 M2 [1, 2, 3, 4, 5] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor idc-1000 recov1-2 4 0 M2 [16, 17, 18, 19, 20] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor idc2000 recov1-2 4 0 M2 [21, 22, 23, 24, 25] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 motor idc1000-2 4 1000 M2 [6, 7, 8, 9, 10] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 spon idc1000 recov5.5-2 0 0 M1 [6, 7, 8, 9, 10] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 spon idc1000-2 0 1000 M1 [1, 2, 3, 4, 5] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop1 spon idc1000 recov0.5-2 0 0 M1 [11, 12, 13, 14, 15] [1, 6, 17]-2 4 0 M2 [6, 7, 8, 9, 10] [1, 6, 17] - spikesorting output missing
+
+SPC21-2-prop2 spon-2 0 0 M1 [1, 2, 3, 4, 5] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor-2 4 0 M2 [1, 2, 3, 4, 5] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor idc-1000 recov5-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor idc1000-2 4 1000 M2 [1, 2, 3, 4, 5] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor idc1000 recov1-2 4 0 M2 [11, 12, 13, 14, 15] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor idc-1000-2 4 -1000 M2 [1, 2, 3, 4, 5] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor idc-1000 recov1-2 4 0 M2 [16, 17, 18, 19, 20] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor idc2000 recov1-2 4 0 M2 [21, 22, 23, 24, 25] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 motor idc1000-2 4 1000 M2 [6, 7, 8, 9, 10] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 spon idc1000 recov5.5-2 0 0 M1 [6, 7, 8, 9, 10] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 spon idc1000-2 0 1000 M1 [1, 2, 3, 4, 5] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop2 spon idc1000 recov0.5-2 0 0 M1 [11, 12, 13, 14, 15] [5, 10, 30]-2 4 0 M2 [6, 7, 8, 9, 10] [5, 10, 30] - spikesorting output missing
+
+SPC21-2-prop3 spon-2 0 0 M1 [1, 2, 3, 4, 5] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor-2 4 0 M2 [1, 2, 3, 4, 5] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor idc-1000 recov5-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor idc1000-2 4 1000 M2 [1, 2, 3, 4, 5] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor idc1000 recov1-2 4 0 M2 [11, 12, 13, 14, 15] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor idc-1000-2 4 -1000 M2 [1, 2, 3, 4, 5] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor idc-1000 recov1-2 4 0 M2 [16, 17, 18, 19, 20] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor idc2000 recov1-2 4 0 M2 [21, 22, 23, 24, 25] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 motor idc1000-2 4 1000 M2 [6, 7, 8, 9, 10] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 spon idc1000 recov5.5-2 0 0 M1 [6, 7, 8, 9, 10] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 spon idc1000-2 0 1000 M1 [1, 2, 3, 4, 5] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC21-2-prop3 spon idc1000 recov0.5-2 0 0 M1 [11, 12, 13, 14, 15] [3, 13, 15]-2 4 0 M2 [6, 7, 8, 9, 10] [3, 13, 15] - spikesorting output missing
+
+SPC25-1-pinch1 pinch-1 1 0 M3 [1, 2, 3, 4, 5] [18, 21, 31]-1 1 0 M3 [1, 2, 3, 4, 5] [18, 21, 31] - spikesorting output missing
+
+SPC25-1-pinch1 pinch idc-1000-1 1 -1000 M3 [1, 2, 3, 4, 5] [18, 21, 31]-1 1 0 M3 [1, 2, 3, 4, 5] [18, 21, 31] - spikesorting output missing
+
+SPC25-1-pinch1 pinch idc-500-1 1 -500 M3 [1, 2, 3, 4, 5] [18, 21, 31]-1 1 0 M3 [1, 2, 3, 4, 5] [18, 21, 31] - spikesorting output missing
+
+SPC25-1-pinch1 pinch idc-1500 recov1-1 1 0 M3 [6, 7, 8, 9, 10] [18, 21, 31]-1 1 0 M3 [1, 2, 3, 4, 5] [18, 21, 31] - spikesorting output missing
+
+SPC26-1-thermal1 laser-1 2.15 0 L1 [1] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 laser-1 2.15 0 L1 [2] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 laser-1 2.15 0 L1 [3] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 laser-1 2.15 0 L1 [4] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 laser-1 2.15 0 L1 [5] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 spon-1 0 0 L1 [1] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 spon-1 0 0 L1 [2] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 spon-1 0 0 L1 [3] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 spon-1 0 0 L1 [4] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC26-1-thermal1 spon-1 0 0 L1 [5] [19, 23, 28]-1 2.15 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC27-1-thermal1 spon-1 0 0 L1 [1] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 spon-1 0 0 L1 [2] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 spon-1 0 0 L1 [3] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 spon-1 0 0 L1 [4] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 spon-1 0 0 L1 [5] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 laser-1 2.15 0 L1 [1] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 laser-1 2.15 0 L1 [2] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 laser-1 2.15 0 L1 [3] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 laser-1 2.15 0 L1 [4] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal1 laser-1 2.15 0 L1 [5] [21, 26, 31]-1 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC27-1-thermal2 spon-1 0 0 L1 [1] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 spon-1 0 0 L1 [2] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 spon-1 0 0 L1 [3] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 spon-1 0 0 L1 [4] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 spon-1 0 0 L1 [5] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 laser-1 2.15 0 L1 [1] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 laser-1 2.15 0 L1 [2] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 laser-1 2.15 0 L1 [3] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 laser-1 2.15 0 L1 [4] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC27-1-thermal2 laser-1 2.15 0 L1 [5] [8, 24, 25]-1 2.15 0 L1 [1] [8, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [1] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [2] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [3] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [4] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [5] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 spon-1 0 0 L1 [1] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 spon-1 0 0 L1 [2] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 spon-1 0 0 L1 [3] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 spon-1 0 0 L1 [4] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 spon-1 0 0 L1 [5] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [6] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [7] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [8] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [9] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [10] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [11] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [12] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [13] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [14] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC28-1-thermal1 laser-1 2.15 0 L1 [15] [9, 24, 25]-1 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-1-thermal1 laser-1 2.15 0 L1 [1] [3, 4, 15]-1 2.15 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-1-thermal1 laser-1 2.15 0 L1 [2] [3, 4, 15]-1 2.15 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-1-thermal1 laser-1 2.15 0 L1 [3] [3, 4, 15]-1 2.15 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-1-thermal1 laser-1 2.15 0 L1 [4] [3, 4, 15]-1 2.15 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-1-thermal1 laser-1 2.15 0 L1 [5] [3, 4, 15]-1 2.15 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [1] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [2] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [3] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [4] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [5] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [6] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [7] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [8] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [9] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser-3 2.15 0 L1 [10] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [1] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [2] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [3] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [4] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [5] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov2.5-3 2.15 0 L1 [11] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov3-3 2.15 0 L1 [12] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov4-3 2.15 0 L1 [13] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov5-3 2.15 0 L1 [14] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov5.5-3 2.15 0 L1 [15] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov15-3 2.15 0 L1 [16] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov15.5-3 2.15 0 L1 [17] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov16.5-3 2.15 0 L1 [18] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov17-3 2.15 0 L1 [19] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov18-3 2.15 0 L1 [20] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov27.5-3 2.15 0 L1 [21] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov28.5-3 2.15 0 L1 [22] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov29-3 2.15 0 L1 [23] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov30-3 2.15 0 L1 [24] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov31-3 2.15 0 L1 [25] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov38.5-3 2.15 0 L1 [26] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov39.5-3 2.15 0 L1 [27] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov40-3 2.15 0 L1 [28] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov41-3 2.15 0 L1 [29] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov42-3 2.15 0 L1 [30] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [6] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [7] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [8] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [9] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000-3 2.15 -1000 L1 [10] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov7.5-3 2.15 0 L1 [31] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov8.5-3 2.15 0 L1 [32] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov9.5-3 2.15 0 L1 [33] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov10-3 2.15 0 L1 [34] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal1 laser idc-1000 recov11-3 2.15 0 L1 [35] [9, 24, 25]-3 2.15 0 L1 [6] [9, 24, 25] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [1] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [2] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [3] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [4] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [5] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [6] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [7] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [8] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [9] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser-3 2.15 0 L1 [10] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [1] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [2] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [3] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [4] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [5] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov2.5-3 2.15 0 L1 [11] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov3-3 2.15 0 L1 [12] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov4-3 2.15 0 L1 [13] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov5-3 2.15 0 L1 [14] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov5.5-3 2.15 0 L1 [15] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov15-3 2.15 0 L1 [16] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov15.5-3 2.15 0 L1 [17] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov16.5-3 2.15 0 L1 [18] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov17-3 2.15 0 L1 [19] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov18-3 2.15 0 L1 [20] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov27.5-3 2.15 0 L1 [21] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov28.5-3 2.15 0 L1 [22] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov29-3 2.15 0 L1 [23] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov30-3 2.15 0 L1 [24] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov31-3 2.15 0 L1 [25] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov38.5-3 2.15 0 L1 [26] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov39.5-3 2.15 0 L1 [27] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov40-3 2.15 0 L1 [28] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov41-3 2.15 0 L1 [29] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov42-3 2.15 0 L1 [30] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [6] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [7] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [8] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [9] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000-3 2.15 -1000 L1 [10] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov7.5-3 2.15 0 L1 [31] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov8.5-3 2.15 0 L1 [32] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov9.5-3 2.15 0 L1 [33] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov10-3 2.15 0 L1 [34] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-3-thermal2 laser idc-1000 recov11-3 2.15 0 L1 [35] [3, 7, 13]-3 2.15 0 L1 [6] [3, 7, 13] - spikesorting output missing
+
+SPC29-4-thermal1 laser-4 2.15 0 L1 [1] [21, 26, 31]-4 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC29-4-thermal1 laser-4 2.15 0 L1 [2] [21, 26, 31]-4 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC29-4-thermal1 laser-4 2.15 0 L1 [3] [21, 26, 31]-4 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC29-4-thermal1 laser-4 2.15 0 L1 [4] [21, 26, 31]-4 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC29-4-thermal1 laser-4 2.15 0 L1 [5] [21, 26, 31]-4 2.15 0 L1 [1] [21, 26, 31] - spikesorting output missing
+
+SPC29-4-thermal2 laser-4 2.15 0 L1 [1] [1, 12, 17]-4 2.15 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC29-4-thermal2 laser-4 2.15 0 L1 [2] [1, 12, 17]-4 2.15 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC29-4-thermal2 laser-4 2.15 0 L1 [3] [1, 12, 17]-4 2.15 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC29-4-thermal2 laser-4 2.15 0 L1 [4] [1, 12, 17]-4 2.15 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC29-4-thermal2 laser-4 2.15 0 L1 [5] [1, 12, 17]-4 2.15 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC29-5-thermal1 laser-5 1.95 0 L1 [1] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser-5 1.95 0 L1 [2] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser-5 1.95 0 L1 [3] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser-5 1.95 0 L1 [4] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser-5 1.95 0 L1 [5] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000-5 1.95 -1000 L1 [1] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000-5 1.95 -1000 L1 [2] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000-5 1.95 -1000 L1 [3] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000-5 1.95 -1000 L1 [4] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000-5 1.95 -1000 L1 [5] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000 recov8-5 1.95 0 L1 [6] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000 recov8.5-5 1.95 0 L1 [7] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000 recov9.5-5 1.95 0 L1 [8] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000 recov10.5-5 1.95 0 L1 [9] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-1000 recov11-5 1.95 0 L1 [10] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500-5 1.95 -500 L1 [1] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500-5 1.95 -500 L1 [1] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500-5 1.95 -500 L1 [1] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500-5 1.95 -500 L1 [1] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500-5 1.95 -500 L1 [1] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov14.5-5 1.95 0 L1 [11] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov15.5-5 1.95 0 L1 [12] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov16.5-5 1.95 0 L1 [13] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov17-5 1.95 0 L1 [14] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov18-5 1.95 0 L1 [15] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov31-5 1.95 0 L1 [16] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov32-5 1.95 0 L1 [17] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov32.5-5 1.95 0 L1 [18] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov33.5-5 1.95 0 L1 [19] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC29-5-thermal1 laser idc-500 recov34-5 1.95 0 L1 [20] [3, 4, 15]-5 1.95 0 L1 [1] [3, 4, 15] - spikesorting output missing
+
+SPC30-1-thermal1 laser-1 1.95 0 L1 [1] [7, 13, 18]-1 1.95 0 L1 [1] [7, 13, 18] - spikesorting output missing
+
+SPC30-1-thermal1 laser-1 1.95 0 L1 [2] [7, 13, 18]-1 1.95 0 L1 [1] [7, 13, 18] - spikesorting output missing
+
+SPC30-1-thermal2 laser-1 1.95 0 L1 [1] [9, 24, 25]-1 1.95 0 L1 [1] [9, 24, 25] - spikesorting output missing
+
+SPC30-1-thermal2 laser-1 1.95 0 L1 [2] [9, 24, 25]-1 1.95 0 L1 [1] [9, 24, 25] - spikesorting output missing
+
+SPC30-2-thermal1 laser-2 1.95 0 L1 [1] [10, 20, 30]-2 1.95 0 L1 [1] [10, 20, 30] - spikesorting output missing
+
+SPC30-2-thermal1 laser-2 1.95 0 L1 [2] [10, 20, 30]-2 1.95 0 L1 [1] [10, 20, 30] - spikesorting output missing
+
+SPC30-2-thermal1 laser-2 1.95 0 L1 [3] [10, 20, 30]-2 1.95 0 L1 [1] [10, 20, 30] - spikesorting output missing
+
+SPC30-2-thermal1 laser-2 1.95 0 L1 [4] [10, 20, 30]-2 1.95 0 L1 [1] [10, 20, 30] - spikesorting output missing
+
+SPC30-2-thermal1 laser-2 1.95 0 L1 [5] [10, 20, 30]-2 1.95 0 L1 [1] [10, 20, 30] - spikesorting output missing
+
+SPC30-2-thermal1 laser-2 1.95 0 L1 [6] [10, 20, 30]-2 1.95 0 L1 [1] [10, 20, 30] - spikesorting output missing
+
+SPC30-3-thermal1 laser-3 1.95 0 L1 [1] [19, 23, 28]-3 1.95 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC30-3-thermal1 laser-3 1.95 0 L1 [2] [19, 23, 28]-3 1.95 0 L1 [1] [19, 23, 28] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [1] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [2] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [3] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [4] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [5] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [6] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [7] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [8] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [9] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [10] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [11] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC30-5-thermal1 laser-5 1.95 0 L1 [12] [14, 19, 29]-5 1.95 0 L1 [1] [14, 19, 29] - spikesorting output missing
+
+SPC31-1-thermal1 laser-1 1.95 0 L1 [1] [4, 15, 20]-1 1.95 0 L1 [1] [4, 15, 20] - spikesorting output missing
+
+SPC31-1-thermal1 laser-1 1.95 0 L1 [2] [4, 15, 20]-1 1.95 0 L1 [1] [4, 15, 20] - spikesorting output missing
+
+SPC31-1-thermal1 laser-1 1.95 0 L1 [3] [4, 15, 20]-1 1.95 0 L1 [1] [4, 15, 20] - spikesorting output missing
+
+SPC31-1-thermal1 laser-1 1.95 0 L1 [4] [4, 15, 20]-1 1.95 0 L1 [1] [4, 15, 20] - spikesorting output missing
+
+SPC31-3-thermal1 laser-3 2.15 0 L1 [1] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser-3 2.15 0 L1 [2] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500-3 2.15 -500 L1 [1] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500-3 2.15 -500 L1 [2] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov0.5-3 2.15 0 L1 [3] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov1.5-3 2.15 0 L1 [4] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov3-3 2.15 0 L1 [5] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov4-3 2.15 0 L1 [6] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov9.5-3 2.15 0 L1 [7] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov10.5-3 2.15 0 L1 [8] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500-3 2.15 -500 L1 [3] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500-3 2.15 -500 L1 [4] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov2.5-3 2.15 0 L1 [9] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov 3.5-3 2.15 0 L1 [10] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov12-3 2.15 0 L1 [11] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov13-3 2.15 0 L1 [12] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov15-3 2.15 0 L1 [13] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov16-3 2.15 0 L1 [14] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov26-3 2.15 0 L1 [15] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov26.5-3 2.15 0 L1 [16] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500-3 2.15 -500 L1 [5] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500-3 2.15 -500 L1 [6] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov0.5-3 2.15 0 L1 [17] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC31-3-thermal1 laser idc-500 recov1.5-3 2.15 0 L1 [18] [5, 10, 14]-3 2.15 0 L1 [1] [5, 10, 14] - spikesorting output missing
+
+SPC32-1-thermal1 laser-1 1.95 0 L1 [1] [9, 24, 25]-1 1.95 0 L1 [1] [9, 24, 25] - spikesorting output missing
+
+SPC32-1-thermal1 laser-1 1.95 0 L1 [2] [9, 24, 25]-1 1.95 0 L1 [1] [9, 24, 25] - spikesorting output missing
+
+SPC32-1-thermal1 laser-1 1.95 0 L1 [3] [9, 24, 25]-1 1.95 0 L1 [1] [9, 24, 25] - spikesorting output missing
+
+SPC32-1-thermal1 laser-1 1.95 0 L1 [4] [9, 24, 25]-1 1.95 0 L1 [1] [9, 24, 25] - spikesorting output missing
+
+SPC32-1-thermal1 laser-1 1.95 0 L1 [5] [9, 24, 25]-1 1.95 0 L1 [1] [9, 24, 25] - spikesorting output missing
+
+SPC32-1-thermal2 laser-1 1.95 0 L1 [1] [1, 12, 17]-1 1.95 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC32-1-thermal2 laser-1 1.95 0 L1 [2] [1, 12, 17]-1 1.95 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC32-1-thermal2 laser-1 1.95 0 L1 [3] [1, 12, 17]-1 1.95 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC32-1-thermal2 laser-1 1.95 0 L1 [4] [1, 12, 17]-1 1.95 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC32-1-thermal2 laser-1 1.95 0 L1 [5] [1, 12, 17]-1 1.95 0 L1 [1] [1, 12, 17] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [1] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [2] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [3] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [4] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [5] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [6] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [7] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [8] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [14] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [15] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [16] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [17] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser-3 1.63 0 L1 [18] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [11] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [12] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [13] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [14] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [15] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov4.5-3 1.63 0 L1 [19] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov6-3 1.63 0 L1 [20] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov7-3 1.63 0 L1 [21] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov8-3 1.63 0 L1 [22] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov8.5-3 1.63 0 L1 [23] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [16] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [17] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov0.5-3 1.63 0 L1 [24] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov1-3 1.63 0 L1 [25] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov1.5-3 1.63 0 L1 [26] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov7.5-3 1.63 0 L1 [27] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov8.5-3 1.63 0 L1 [28] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500-3 1.63 -500 L1 [6] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500-3 1.63 -500 L1 [7] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500-3 1.63 -500 L1 [8] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500-3 1.63 -500 L1 [9] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500-3 1.63 -500 L1 [10] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500 recov6.5-3 1.63 0 L1 [29] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500 recov7.5-3 1.63 0 L1 [30] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500 recov8-3 1.63 0 L1 [31] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500 recov9-3 1.63 0 L1 [32] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-500 recov9.5-3 1.63 0 L1 [33] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [18] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [19] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [20] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [21] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000-3 1.63 -1000 L1 [22] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov6-3 1.63 0 L1 [34] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov6.5-3 1.63 0 L1 [35] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov7.5-3 1.63 0 L1 [36] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov8.5-3 1.63 0 L1 [37] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov9-3 1.63 0 L1 [38] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov15-3 1.63 0 L1 [39] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov16-3 1.63 0 L1 [40] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov16.5-3 1.63 0 L1 [41] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov17.5-3 1.63 0 L1 [42] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC32-3-thermal1 laser idc-1000 recov18.5-3 1.63 0 L1 [43] [2, 23, 28]-3 1.63 0 L1 [19] [2, 23, 28] - spikesorting output missing
+
+SPC37-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25]-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25] - spikesorting output missing
+
+SPC37-1-tactile1 shaker-1 100 0 M1 [11, 12, 13, 14, 15] [9, 24, 25]-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25] - spikesorting output missing
+
+SPC37-1-tactile1 laser-1 1.63 0 L1 [3] [9, 24, 25]-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25] - spikesorting output missing
+
+SPC37-1-tactile1 laser-1 1.63 0 L1 [4] [9, 24, 25]-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25] - spikesorting output missing
+
+SPC37-1-tactile1 laser-1 1.63 0 L1 [5] [9, 24, 25]-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25] - spikesorting output missing
+
+SPC37-1-tactile1 laser-1 1.63 0 L1 [6] [9, 24, 25]-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25] - spikesorting output missing
+
+SPC37-2-tactile1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-2-tactile1 shaker-2 100 0 M1 [6, 7, 8, 9, 10] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-2-tactile1 laser-2 1.63 0 L1 [1] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-2-tactile1 laser-2 1.63 0 L1 [2] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-2-tactile1 laser-2 1.63 0 L1 [3] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-2-tactile1 laser-2 1.63 0 L1 [4] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-2-tactile1 laser-2 1.63 0 L1 [5] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-2-tactile1 laser-2 1.63 0 L1 [6] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC37-3-tactile1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [1, 6, 17]-3 100 0 M1 [1, 2, 3, 4, 5] [1, 6, 17] - spikesorting output missing
+
+SPC37-3-tactile1 laser-3 1.63 0 L1 [1] [1, 6, 17]-3 100 0 M1 [1, 2, 3, 4, 5] [1, 6, 17] - spikesorting output missing
+
+SPC37-3-tactile1 laser-3 1.63 0 L1 [2] [1, 6, 17]-3 100 0 M1 [1, 2, 3, 4, 5] [1, 6, 17] - spikesorting output missing
+
+SPC37-3-tactile1 laser-3 1.63 0 L1 [3] [1, 6, 17]-3 100 0 M1 [1, 2, 3, 4, 5] [1, 6, 17] - spikesorting output missing
+
+SPC39-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 laser-1 1.63 0 L1 [1] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 laser-1 1.63 0 L1 [2] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 laser-1 1.63 0 L1 [3] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 laser-1 1.63 0 L1 [4] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 laser-1 1.63 0 L1 [5] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 laser-1 1.63 0 L1 [6] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-1-tactile1 shaker-1 100 0 M1 [11, 12, 13, 14, 15] [8, 24, 25]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC39-2-tactile1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 shaker-2 100 0 M1 [6, 7, 8, 9, 10] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 spon-2 0 0 M1 [1, 2, 3, 4, 5] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 laser-2 1.63 0 L1 [1] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 laser-2 1.63 0 L1 [2] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 laser-2 1.63 0 L1 [3] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 laser-2 1.63 0 L1 [4] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 laser-2 1.63 0 L1 [5] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 laser-2 1.63 0 L1 [6] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 shaker-2 100 0 M1 [11, 12, 13, 14, 15] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC39-2-tactile1 shaker-2 100 0 M1 [16, 17, 18, 19, 20] [11, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 22, 27] - spikesorting output missing
+
+SPC40-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [2, 23, 28]-1 100 0 M3 [1, 2, 3, 4, 5] [2, 23, 28] - spikesorting output missing
+
+SPC40-1-pinch1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [2, 23, 28]-1 100 0 M3 [1, 2, 3, 4, 5] [2, 23, 28] - spikesorting output missing
+
+SPC40-1-pinch1 motor-1 100 0 M3 [1, 2, 3, 4, 5] [2, 23, 28]-1 100 0 M3 [1, 2, 3, 4, 5] [2, 23, 28] - spikesorting output missing
+
+SPC42-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SPC42-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SPC42-1-pinch1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SPC42-1-pinch1 laser-1 1.63 0 L1 [1] [5, 14, 29]-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SPC42-1-pinch1 laser-1 1.63 0 L1 [2] [5, 14, 29]-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SPC42-1-pinch1 laser-1 1.63 0 L1 [3] [5, 14, 29]-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SPC42-1-pinch1 laser-1 1.63 0 L1 [4] [5, 14, 29]-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SPC42-1-pinch2 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC42-1-pinch2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC42-1-pinch2 spon-1 0 0 M1 [1, 2, 3, 4, 5] [9, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC42-1-pinch2 laser-1 1.63 0 L1 [1] [9, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC42-1-pinch2 laser-1 1.63 0 L1 [2] [9, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC42-1-pinch2 laser-1 1.63 0 L1 [3] [9, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC42-1-pinch2 laser-1 1.63 0 L1 [4] [9, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC44-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [8, 11, 27]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 11, 27] - spikesorting output missing
+
+SPC44-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [8, 11, 27]-1 100 0 M1 [1, 2, 3, 4, 5] [8, 11, 27] - spikesorting output missing
+
+SPC45-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [2, 23, 28]-1 100 0 M1 [1, 2, 3, 4, 5] [2, 23, 28] - spikesorting output missing
+
+SPC45-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [2, 23, 28]-1 100 0 M1 [1, 2, 3, 4, 5] [2, 23, 28] - spikesorting output missing
+
+SPC45-1-tactile1 shaker idc500 recov0.5-1 100 0 M1 [6, 7, 8, 9, 10] [2, 23, 28]-1 100 0 M1 [1, 2, 3, 4, 5] [2, 23, 28] - spikesorting output missing
+
+SPC45-1-prop1 motor-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24]-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC45-1-prop1 motor idc500-1 100 500 M2 [1, 2, 3, 4, 5] [8, 11, 24]-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC45-1-prop1 motor idc-500-1 100 -500 M2 [1, 2, 3, 4, 5] [8, 11, 24]-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC45-1-prop1 motor idc-500 recov1-1 100 0 M2 [6, 7, 8, 9, 10] [8, 11, 24]-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC45-1-prop1 motor idc1000-1 100 1000 M2 [1, 2, 3, 4, 5] [8, 11, 24]-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC45-1-prop1 motor idc-1000-1 100 -1000 M2 [1, 2, 3, 4, 5] [8, 11, 24]-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC45-1-prop1 motor idc-1000 recov1-1 100 0 M2 [11, 12, 13, 14, 15] [8, 11, 24]-1 100 0 M2 [1, 2, 3, 4, 5] [8, 11, 24] - spikesorting output missing
+
+SPC45-1-prop2 motor-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC45-1-prop2 motor idc500-1 100 500 M2 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC45-1-prop2 motor idc-500-1 100 -500 M2 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC45-1-prop2 motor idc-500 recov1-1 100 0 M2 [6, 7, 8, 9, 10] [14, 19, 29]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC45-1-prop2 motor idc1000-1 100 1000 M2 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC45-1-prop2 motor idc-1000-1 100 -1000 M2 [1, 2, 3, 4, 5] [14, 19, 29]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC45-1-prop2 motor idc-1000 recov1-1 100 0 M2 [11, 12, 13, 14, 15] [14, 19, 29]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 19, 29] - spikesorting output missing
+
+SPC46-1-prop1 motor-1 100 0 M2 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 laser-1 1.63 0 L1 [1, 2] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 laser-1 1.63 0 L1 [3, 4] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor-1 100 0 M2 [6, 7, 8, 9, 10] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc500-1 100 500 M2 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc500 recov1-1 100 0 M2 [16, 17, 18, 19, 20] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc1000-1 100 1000 M2 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc1000 recov1-1 100 0 M2 [21, 22, 23, 24, 25] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc1000 recov3-1 100 0 M2 [26, 27, 28, 29, 30] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc-500-1 100 -500 M2 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc-500 recov2-1 100 0 M2 [31, 32, 33, 34, 35] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc-1000-1 100 -1000 M2 [1, 2, 3, 4, 5] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC46-1-prop1 motor idc-1000 recov2-1 100 0 M2 [36, 37, 38, 39, 40] [4, 15, 20]-1 100 0 M2 [11, 12, 13, 14, 15] [4, 15, 20] - spikesorting output missing
+
+SPC48-2-thermal1 laser-2 4.76 0 L1 [2, 3] [9, 24, 25]-2 4.76 0 L1 [2, 3] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-prop1 motor-3 100 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-prop1 spon-3 0 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-prop1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-prop1 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M2 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-prop2 motor-3 100 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-prop2 spon-3 0 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-prop2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-prop2 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M2 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-tactile1 motor-3 100 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-tactile1 spon-3 0 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-tactile1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-tactile1 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-tactile2 motor-3 100 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-tactile2 spon-3 0 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-tactile2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-tactile2 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-pinch1 motor-3 100 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M3 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-pinch1 spon-3 0 0 M2 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M3 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-pinch1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M3 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-pinch1 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [10, 20, 30]-3 100 0 M3 [1, 2, 3, 4, 5] [10, 20, 30] - spikesorting output missing
+
+SPC48-3-pinch2 motor-3 100 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-pinch2 spon-3 0 0 M2 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-pinch2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SPC48-3-pinch2 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25]-3 100 0 M3 [1, 2, 3, 4, 5] [9, 24, 25] - spikesorting output missing
+
+SNT01-1-tactile1 shaker-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25]-1 100 0 M1 [6, 7, 8, 9, 10] [9, 24, 25] - spikesorting output missing
+
+SNT01-2-tactile2 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17]-2 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+SNT01-3-tactile3 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [2, 12, 1]-3 100 0 M1 [1, 2, 3, 4, 5] [2, 12, 1] - spikesorting output missing
+
+SNT01-3-tactile3 motor-3 100 0 M2 [1, 2, 3, 4, 5] [2, 12, 1]-3 100 0 M1 [1, 2, 3, 4, 5] [2, 12, 1] - spikesorting output missing
+
+SNT01-3-prop1 motor-3 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19]-3 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT01-3-prop1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19]-3 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT01-3-prop2 motor-3 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15]-3 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT01-3-prop2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [13, 3, 15]-3 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT01-4-tactile1 shaker-4 100 0 M1 [1, 2, 3, 4, 5] [10, 5, 14]-4 100 0 M1 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+SNT01-4-tactile1 laser-4 2.15 0 L1 [1, 2] [10, 5, 14]-4 100 0 M1 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+SNT01-4-thermal1 laser-4 2.15 0 L1 [1, 2] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT01-4-thermal1 shaker-4 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-1-tactile1 shaker-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-tactile1 shaker idc-500-1 100 -500 M1 [1, 2, 3, 4, 5] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-tactile1 shaker idc-500 recov1-1 100 0 M1 [21, 22, 23, 24, 25] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-tactile1 shaker idc-1000-1 100 -1000 M1 [1, 2, 3, 4, 5] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-tactile1 shaker idc-1000 recov1-1 100 0 M1 [26, 27, 28, 29, 30] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-tactile1 pinch-1 100 0 M3 [16, 17, 18, 19, 20] [22, 27, 11]-1 100 0 M1 [16, 17, 18, 19, 20] [22, 27, 11] - spikesorting output missing
+
+SNT02-1-pinch1 pinch-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 pinch idc-500-1 100 -500 M3 [1, 2, 3, 4, 5] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 pinch idc-500 recov1-1 100 0 M3 [21, 22, 23, 24, 25] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 pinch idc-1000-1 100 -1000 M3 [1, 2, 3, 4, 5] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 pinch idc-1000 recov1-1 100 0 M3 [26, 27, 28, 29, 30] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 pinch idc-1000 recov10-1 100 0 M3 [31, 32, 33, 35, 36] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-1-pinch1 shaker-1 100 0 M1 [16, 17, 18, 19, 20] [19, 28, 23]-1 100 0 M3 [16, 17, 18, 19, 20] [19, 28, 23] - spikesorting output missing
+
+SNT02-2-prop1 motor-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19]-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT02-2-prop1 motor idc500-2 100 500 M2 [1, 2, 3, 4, 5] [14, 29, 19]-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT02-2-prop1 motor idc-500-2 100 -500 M2 [1, 2, 3, 4, 5] [14, 29, 19]-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT02-2-prop1 motor idc-500 recov1-2 100 0 M2 [6, 7, 8, 9, 10] [14, 29, 19]-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT02-2-prop1 motor idc1000-2 100 1000 M2 [1, 2, 3, 4, 5] [14, 29, 19]-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT02-2-prop1 motor idc-1000-2 100 -1000 M2 [1, 2, 3, 4, 5] [14, 29, 19]-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT02-2-prop1 motor idc-1000 recov1-2 100 0 M2 [11, 12, 13, 14, 15] [14, 29, 19]-2 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT02-2-tactile4 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 shaker idc500-2 100 500 M1 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 shaker idc-500-2 100 -500 M1 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 shaker idc-500 recov1-2 100 0 M1 [6, 7, 8, 9, 10] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 shaker idc1000-2 100 1000 M1 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 shaker idc-1000-2 100 -1000 M1 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 shaker idc-1000 recov1-2 100 0 M1 [11, 12, 13, 14, 15] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-tactile4 laser-2 3.71 0 L1 [4, 5] [5, 14, 29]-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 pinch idc500-2 100 500 M3 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 pinch idc-500-2 100 -500 M3 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 pinch idc-500 recov1-2 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 pinch idc1000-2 100 1000 M3 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 pinch idc-1000-2 100 -1000 M3 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 pinch idc-1000 recov1-2 100 0 M3 [16, 17, 18, 19, 20] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-pinch4 laser-2 3.71 0 L1 [4, 5] [5, 14, 29]-2 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+SNT02-2-thermal1 laser-2 3.71 0 L1 [1, 2] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 laser idc500-2 3.71 500 L1 [1, 2] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 laser idc-500-2 3.71 -500 L1 [1, 2] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 laser idc-500 recov1-2 3.71 0 L1 [5, 6] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 laser idc1000-2 3.71 1000 L1 [1, 2] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 laser idc-1000-2 3.71 -1000 L1 [1, 2] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 laser idc-1000 recov5-2 3.71 0 L1 [7, 8] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-2-thermal1 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4]-2 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-3-thermal2 laser-3 3.71 0 L1 [1, 2] [24, 25, 9]-3 3.71 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT02-3-thermal2 laser idc500-3 3.71 500 L1 [1, 2] [24, 25, 9]-3 3.71 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT02-3-thermal2 laser idc-500-3 3.71 -500 L1 [1, 2] [24, 25, 9]-3 3.71 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT02-3-thermal2 laser idc-500 recov5-3 3.71 0 L1 [4, 5] [24, 25, 9]-3 3.71 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT02-3-thermal1 laser-3 3.71 0 L1 [1, 2] [3, 15, 4]-3 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-3-thermal1 laser idc500-3 3.71 500 L1 [1, 2] [3, 15, 4]-3 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-3-thermal1 laser idc-500-3 3.71 -500 L1 [1, 2] [3, 15, 4]-3 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT02-3-thermal1 laser idc-500 recov5-3 3.71 0 L1 [4, 5] [3, 15, 4]-3 3.71 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+SNT03-2-thermal2 laser-2 2.69 0 L1 [1, 2] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc500-2 2.69 500 L1 [1, 2] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc500 recov5-2 2.69 0 L1 [4, 5] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc1000-2 2.69 1000 L1 [1, 2] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc1000 recov5-2 2.69 0 L1 [7, 8] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc1000 recov20-2 2.69 0 L1 [10, 11] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc-500-2 2.69 -500 L1 [1, 2] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc-500 recov5-2 2.69 0 L1 [13, 14] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc-1000-2 2.69 -1000 L1 [1, 2] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 laser idc-1000 recov10-2 2.69 0 L1 [16, 17] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-thermal2 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-2 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker idc500-2 100 500 M1 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker idc1000-2 100 1000 M1 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker idc1000 recov1-2 100 0 M1 [6, 7, 8, 9, 10] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker idc-500-2 100 -500 M1 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker idc-1000-2 100 -1000 M1 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker idc-1000 recov1-2 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 laser-2 2.69 0 L1 [1, 2] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT03-2-tactile1 shaker-2 100 0 M1 [16, 17, 18, 19, 20] [24, 25, 9]-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT04-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 shaker idc1000 recov1-1 100 0 M1 [6, 7, 8, 9, 10] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 shaker idc-500-1 100 -500 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 shaker idc-1000-1 100 -1000 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 shaker idc-1000 recov1-1 100 0 M1 [11, 12, 13, 14, 15] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 shaker idc-1000 recov2-1 100 0 M1 [16, 17, 18, 19, 20] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-tactile1 laser-1 2.69 0 L1 [1, 2] [17, 6, 22]-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc1000 recov1-1 100 0 M3 [6, 7, 8, 9, 10] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc1000 recov10-1 100 0 M3 [11, 12, 13, 14, 15] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc-500-1 100 -500 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc-1000-1 100 -1000 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc-1000 recov1-1 100 0 M3 [16, 17, 18, 19, 20] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 pinch idc-1000 recov10-1 100 0 M3 [21, 22, 23, 24, 25] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 spon-1 0 0 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-pinch1 laser-1 2.69 0 L1 [1, 2] [17, 6, 22]-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 laser-1 2.69 0 L1 [7, 8] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 laser idc500-1 2.69 500 L1 [7, 8] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 laser idc500 recov10-1 2.69 0 L1 [10, 11] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 laser idc1000-1 2.69 1000 L1 [1, 2] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 laser idc1000 recov10-1 2.69 0 L1 [13, 14] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 laser idc1000 recov30-1 2.69 0 L1 [16, 17] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 spon-1 0 0 L1 [1, 2] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 2.69 0 L1 [7, 8] [17, 6, 22] - spikesorting output missing
+
+SNT04-1-thermal2 laser-1 2.69 0 L1 [7, 8] [20, 10, 30]-1 2.69 0 L1 [7, 8] [20, 10, 30] - spikesorting output missing
+
+SNT04-1-thermal2 laser idc500-1 2.69 500 L1 [7, 8] [20, 10, 30]-1 2.69 0 L1 [7, 8] [20, 10, 30] - spikesorting output missing
+
+SNT04-1-thermal2 laser idc500 recov10-1 2.69 0 L1 [10, 11] [20, 10, 30]-1 2.69 0 L1 [7, 8] [20, 10, 30] - spikesorting output missing
+
+SNT04-1-thermal2 laser idc1000-1 2.69 1000 L1 [1, 2] [20, 10, 30]-1 2.69 0 L1 [7, 8] [20, 10, 30] - spikesorting output missing
+
+SNT04-1-thermal2 laser idc1000 recov10-1 2.69 0 L1 [13, 14] [20, 10, 30]-1 2.69 0 L1 [7, 8] [20, 10, 30] - spikesorting output missing
+
+SNT04-1-thermal2 laser idc1000 recov30-1 2.69 0 L1 [16, 17] [20, 10, 30]-1 2.69 0 L1 [7, 8] [20, 10, 30] - spikesorting output missing
+
+SNT04-1-thermal2 spon-1 0 0 L1 [1, 2] [20, 10, 30]-1 2.69 0 L1 [7, 8] [20, 10, 30] - spikesorting output missing
+
+SNT04-2-tactile2 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc500-2 100 500 M1 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc500 recov1-2 100 0 M1 [6, 7, 8, 9, 10] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc1000-2 100 1000 M1 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc1000 recov1-2 100 0 M1 [11, 12, 13, 14, 15] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc-500-2 100 -500 M1 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc-500 recov1-2 100 0 M1 [16, 17, 18, 19, 20] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc-1000-2 100 -1000 M1 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 shaker idc-1000 recov1-2 100 0 M1 [21, 22, 23, 24, 25] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-2-tactile2 spon-2 0 0 M1 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SNT04-3-prop1 motor-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc500-3 100 500 M2 [1, 2, 3, 4, 5] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc500 recov1-3 100 0 M2 [6, 7, 8, 9, 10] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc1000-3 100 1000 M2 [1, 2, 3, 4, 5] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc1000 recov1-3 100 0 M2 [11, 12, 13, 14, 15] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc-500-3 100 -500 M2 [1, 2, 3, 4, 5] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc-500 recov1-3 100 0 M2 [16, 17, 18, 19, 20] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc-1000-3 100 -1000 M2 [1, 2, 3, 4, 5] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 motor idc-1000 recov1-3 100 0 M2 [21, 22, 23, 24, 25] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop1 spon-3 0 0 M2 [1, 2, 3, 4, 5] [15, 4, 20]-3 100 0 M2 [1, 2, 3, 4, 5] [15, 4, 20] - spikesorting output missing
+
+SNT04-3-prop2 motor-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc500-3 100 500 M2 [1, 2, 3, 4, 5] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc500 recov1-3 100 0 M2 [6, 7, 8, 9, 10] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc1000-3 100 1000 M2 [1, 2, 3, 4, 5] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc1000 recov1-3 100 0 M2 [11, 12, 13, 14, 15] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc-500-3 100 -500 M2 [1, 2, 3, 4, 5] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc-500 recov1-3 100 0 M2 [16, 17, 18, 19, 20] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc-1000-3 100 -1000 M2 [1, 2, 3, 4, 5] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 motor idc-1000 recov1-3 100 0 M2 [21, 22, 23, 24, 25] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT04-3-prop2 spon-3 0 0 M2 [1, 2, 3, 4, 5] [19, 29, 28]-3 100 0 M2 [1, 2, 3, 4, 5] [19, 29, 28] - spikesorting output missing
+
+SNT05-2-tactile1 shaker-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-tactile1 shaker idc-500-2 100 -500 M1 [1, 2, 3, 4, 5] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-tactile1 shaker idc-500 recov1-2 100 0 M1 [16, 17, 18, 19, 20] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-tactile1 shaker idc-500 recov4-2 100 0 M1 [21, 22, 23, 24, 25] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-tactile1 shaker idc500-2 100 500 M1 [1, 2, 3, 4, 5] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-tactile1 shaker idc500 recov1-2 100 0 M1 [26, 27, 28, 29, 30] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-tactile1 shaker idc500 recov4-2 100 0 M1 [31, 32, 33, 34, 35] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-tactile1 laser-2 2.15 0 L1 [1, 2] [27, 11, 8]-2 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8] - spikesorting output missing
+
+SNT05-2-thermal3 laser-2 2.15 0 L1 [1, 2] [20, 30, 10]-2 2.15 0 L1 [1, 2] [20, 30, 10] - spikesorting output missing
+
+SNT05-2-thermal3 laser-2 2.15 0 L1 [4, 5] [20, 30, 10]-2 2.15 0 L1 [1, 2] [20, 30, 10] - spikesorting output missing
+
+SNT05-2-thermal3 laser-2 2.15 0 L1 [7, 8] [20, 30, 10]-2 2.15 0 L1 [1, 2] [20, 30, 10] - spikesorting output missing
+
+SNT05-3-tactile2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc-500-3 100 -500 M1 [1, 2, 3, 4, 5] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc500-3 100 500 M1 [1, 2, 3, 4, 5] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc500 recov1-3 100 0 M1 [6, 7, 8, 9, 10] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc-1000-3 100 -1000 M1 [1, 2, 3, 4, 5] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc1000-3 100 1000 M1 [1, 2, 3, 4, 5] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc1000 recov1-3 100 0 M1 [21, 22, 23, 24, 25] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc1000 recov4-3 100 0 M1 [26, 27, 28, 29, 30] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc1000 recov8-3 100 0 M1 [31, 32, 33, 34, 35] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc1000 recov15-3 100 0 M1 [36, 37, 38, 39, 40] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 shaker idc1000 recov20-3 100 0 M1 [41, 42, 43, 44, 45] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-3-tactile2 spon-3 0 0 M1 [1, 2, 3, 4, 5] [22, 27, 11]-3 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11] - spikesorting output missing
+
+SNT05-4-thermal1 laser-4 3.71 0 L1 [1, 2] [27, 11, 8]-4 3.71 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+SNT05-4-thermal1 laser idc500-4 3.71 500 L1 [2, 3] [27, 11, 8]-4 3.71 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+SNT05-4-thermal1 laser idc1000-4 3.71 1000 L1 [2, 3] [27, 11, 8]-4 3.71 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+SNT05-4-thermal1 laser idc1000 recov15-4 3.71 0 L1 [4, 5] [27, 11, 8]-4 3.71 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+SNT05-4-thermal1 laser idc-500-4 3.71 -500 L1 [2, 3] [27, 11, 8]-4 3.71 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+SNT05-4-thermal1 laser idc-500 recov15-4 3.71 0 L1 [7, 8] [27, 11, 8]-4 3.71 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+SNT05-4-thermal2 laser-4 3.71 0 L1 [1, 2] [5, 14, 29]-4 3.71 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT05-4-thermal2 laser idc500-4 3.71 500 L1 [2, 3] [5, 14, 29]-4 3.71 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT05-4-thermal2 laser idc1000-4 3.71 1000 L1 [2, 3] [5, 14, 29]-4 3.71 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT05-4-thermal2 laser idc1000 recov15-4 3.71 0 L1 [4, 5] [5, 14, 29]-4 3.71 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT05-4-thermal2 laser idc-500-4 3.71 -500 L1 [2, 3] [5, 14, 29]-4 3.71 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT05-4-thermal2 laser idc-500 recov15-4 3.71 0 L1 [7, 8] [5, 14, 29]-4 3.71 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser-1 2.15 0 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc500-1 2.15 500 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc1000-1 2.15 1000 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc1000 recov10-1 2.15 0 L1 [4, 5] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc1000 recov15-1 2.15 0 L1 [6, 7] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc-500-1 2.15 -500 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc-1000-1 2.15 -1000 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc-1000 recov10-1 2.15 0 L1 [8, 9] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 laser idc-1000 recov15-1 2.15 0 L1 [10, 11] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal2 laser-1 2.15 0 L1 [1, 2] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc500-1 2.15 500 L1 [1, 2] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc1000-1 2.15 1000 L1 [1, 2] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc1000 recov10-1 2.15 0 L1 [4, 5] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc1000 recov15-1 2.15 0 L1 [6, 7] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc-500-1 2.15 -500 L1 [1, 2] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc-1000-1 2.15 -1000 L1 [1, 2] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc-1000 recov10-1 2.15 0 L1 [8, 9] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 laser idc-1000 recov15-1 2.15 0 L1 [10, 11] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal2 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [22, 27, 11]-1 2.15 0 L1 [1, 2] [22, 27, 11] - spikesorting output missing
+
+SNT06-1-thermal1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-thermal1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+SNT06-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc500 recov1-1 100 0 M1 [11, 12, 13, 14, 15] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc-500-1 100 -500 M1 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc-500 recov1-1 100 0 M1 [26, 27, 28, 29, 30] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc-500 recov4-1 100 0 M1 [31, 32, 33, 34, 35] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc-1000-1 100 -1000 M1 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc-1000 recov4-1 100 0 M1 [36, 37, 38, 39, 40] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shaker idc-1000 recov8-1 100 0 M1 [41, 42, 43, 44, 45] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 laser-1 2.15 0 L1 [1, 2] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile1 shakerpon-1 0 0 M1 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M1 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+SNT06-1-tactile2 shaker-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc500-1 100 500 M1 [6, 7, 8, 9, 10] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc-500-1 100 -500 M1 [6, 7, 8, 9, 10] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc-500 recov1-1 100 0 M1 [51, 52, 53, 54, 55] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc-500 recov4-1 100 0 M1 [56, 57, 58, 59, 60] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc-1000-1 100 -1000 M1 [6, 7, 8, 9, 10] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc1000-1 100 1000 M1 [6, 7, 8, 9, 10] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc1000 recov1-1 100 0 M1 [61, 62, 63, 64, 65] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 shaker idc1000 recov4-1 100 0 M1 [66, 67, 68, 69, 70] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-tactile2 spon-1 0 0 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [46, 47, 48, 49, 50] [12, 1, 17] - spikesorting output missing
+
+SNT06-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 pinch idc-500-1 100 -500 M3 [1, 2, 3, 4, 5] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 pinch idc-500 recov1-1 100 0 M3 [6, 7, 8, 9, 10] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 pinch idc-500 recov8-1 100 0 M3 [6, 7, 8, 9, 10] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 pinch idc-1000-1 100 -1000 M3 [1, 2, 3, 4, 5] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 pinch idc-1000 recov12-1 100 0 M3 [17, 18, 19, 20, 21] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 spon-1 0 0 M3 [1, 2, 3, 4, 5] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT06-1-pinch1 laser-1 2.15 0 L1 [1, 2] [13, 3, 15]-1 100 0 M3 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+SNT07-3-prop2 motor-3 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14]-3 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+SNT07-4-pinch2 pinch-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc500-4 100 500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc500 recov1-4 100 0 M3 [6, 7, 8, 9, 10] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc500 recov5-4 100 0 M3 [11, 12, 13, 14, 15] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc1000-4 100 1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc1000 recov1-4 100 0 M3 [16, 17, 18, 19, 20] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc1000 recov10-4 100 0 M3 [21, 22, 23, 24, 25] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-500-4 100 -500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-500 recov8-4 100 0 M3 [26, 27, 28, 29, 30] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-1000-4 100 -1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-1000 recov1-4 100 0 M3 [31, 32, 33, 34, 35] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-1000 recov10-4 100 0 M3 [36, 37, 38, 39, 40] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-5-prop3 motor-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT07-5-prop3 motor idc500-5 100 500 M2 [1, 2, 3, 4, 5] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT07-5-prop3 motor idc1000-5 100 1000 M2 [1, 2, 3, 4, 5] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT07-5-prop3 motor idc1000 recov1-5 100 0 M2 [6, 7, 8, 9, 10] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT07-5-prop3 motor idc-1000-5 100 -1000 M2 [1, 2, 3, 4, 5] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT07-5-prop3 motor idc-500-5 100 -500 M2 [1, 2, 3, 4, 5] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT07-5-prop3 motor idc-500 recov1-5 100 0 M2 [11, 12, 13, 14, 15] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT07-5-prop3 motor idc-500 recov5-5 100 0 M2 [16, 17, 18, 19, 20] [29, 19, 28]-5 100 0 M2 [1, 2, 3, 4, 5] [29, 19, 28] - spikesorting output missing
+
+SNT08-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M3 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+SNT08-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M3 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+SNT08-1-pinch1 pinch idc500 recov5-1 100 0 M3 [6, 7, 8, 9, 10] [12, 1, 17]-1 100 0 M3 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+SNT08-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M3 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser-2 2.15 0 L1 [1, 2] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser idc500-2 2.15 500 L1 [1, 2] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser idc500 recov10-2 2.15 0 L1 [4, 5] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser idc1000-2 2.15 1000 L1 [1, 2] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser idc1000 recov10-2 2.15 0 L1 [7, 8] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser idc-500-2 2.15 -500 L1 [1, 2] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser idc-1000-2 2.15 -1000 L1 [1, 2] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 laser idc-1000 recov10-2 2.15 0 L1 [10, 11] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-2-thermal1 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [12, 1, 17]-2 2.15 0 L1 [1, 2] [12, 1, 17] - spikesorting output missing
+
+SNT08-3-tactile1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SNT08-3-tactile1 shaker idc500-3 100 500 M1 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SNT08-3-tactile1 shaker idc-500-3 100 -500 M1 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SNT08-3-tactile1 shaker idc-500 recov1-3 100 0 M1 [6, 7, 8, 9, 10] [27, 11, 8]-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SNT08-3-tactile1 shaker idc1000-3 100 1000 M1 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SNT08-3-tactile1 shaker idc-1000-3 100 -1000 M1 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SNT08-3-tactile1 shaker idc-1000 recov1-3 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8]-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SNT08-3-tactile2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT08-3-tactile2 shaker idc500-3 100 500 M1 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT08-3-tactile2 shaker idc-500-3 100 -500 M1 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT08-3-tactile2 shaker idc-500 recov1-3 100 0 M1 [6, 7, 8, 9, 10] [24, 25, 9]-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT08-3-tactile2 shaker idc1000-3 100 1000 M1 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT08-3-tactile2 shaker idc-1000-3 100 -1000 M1 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT08-3-tactile2 shaker idc-1000 recov1-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9]-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA09-1-thermal1 laser-1 2.15 0 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA09-1-thermal2 laser-1 5.8 0 L1 [1, 2] [11, 8, 24]-1 5.8 0 L1 [1, 2] [11, 8, 24] - spikesorting output missing
+
+CFA09-1-thermal2 laser-1 5.8 0 L1 [3, 4] [11, 8, 24]-1 5.8 0 L1 [1, 2] [11, 8, 24] - spikesorting output missing
+
+CFA09-1-thermal2 laser-1 5.8 0 L1 [5, 6] [11, 8, 24]-1 5.8 0 L1 [1, 2] [11, 8, 24] - spikesorting output missing
+
+CFA09-1-thermal2 laser-1 5.8 0 L1 [7, 8] [11, 8, 24]-1 5.8 0 L1 [1, 2] [11, 8, 24] - spikesorting output missing
+
+CFA09-1-thermal2 laser-1 5.8 0 L1 [9, 10] [11, 8, 24]-1 5.8 0 L1 [1, 2] [11, 8, 24] - spikesorting output missing
+
+CFA09-1-thermal1 laser-1 2.15 0 L1 [3, 4] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA10-1-prop1 motor-1 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+CFA10-1-prop1 motor idc500-1 100 500 M2 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+CFA10-1-prop1 motor idc1000-1 100 1000 M2 [1, 2, 3, 4, 5] [14, 29, 19]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+CFA10-1-prop1 motor idc1000 recov1-1 100 0 M2 [6, 7, 8, 9, 10] [14, 29, 19]-1 100 0 M2 [1, 2, 3, 4, 5] [14, 29, 19] - spikesorting output missing
+
+CFA10-1-prop2 motor-1 100 0 M2 [1, 2, 3, 4, 5] [32, 16, 26]-1 100 0 M2 [1, 2, 3, 4, 5] [32, 16, 26] - spikesorting output missing
+
+CFA10-1-prop2 motor idc500-1 100 500 M2 [1, 2, 3, 4, 5] [32, 16, 26]-1 100 0 M2 [1, 2, 3, 4, 5] [32, 16, 26] - spikesorting output missing
+
+CFA10-1-prop2 motor idc1000-1 100 1000 M2 [1, 2, 3, 4, 5] [32, 16, 26]-1 100 0 M2 [1, 2, 3, 4, 5] [32, 16, 26] - spikesorting output missing
+
+CFA10-1-prop2 motor idc1000 recov1-1 100 0 M2 [6, 7, 8, 9, 10] [32, 16, 26]-1 100 0 M2 [1, 2, 3, 4, 5] [32, 16, 26] - spikesorting output missing
+
+CFA10-2-prop3 motor-2 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15]-2 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+CFA10-2-prop3 motor idc500-2 100 500 M2 [1, 2, 3, 4, 5] [13, 3, 15]-2 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+CFA10-2-prop3 motor idc1000-2 100 1000 M2 [1, 2, 3, 4, 5] [13, 3, 15]-2 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+CFA10-2-prop3 motor idc1000 recov1-2 100 0 M2 [6, 7, 8, 9, 10] [13, 3, 15]-2 100 0 M2 [1, 2, 3, 4, 5] [13, 3, 15] - spikesorting output missing
+
+CFA10-3-tactile2 shaker-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9]-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9] - spikesorting output missing
+
+CFA10-3-tactile2 shaker idc500-3 100 500 M1 [6, 7, 8, 9, 10] [24, 25, 9]-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9] - spikesorting output missing
+
+CFA10-3-tactile2 shaker idc1000-3 100 1000 M1 [6, 7, 8, 9, 10] [24, 25, 9]-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9] - spikesorting output missing
+
+CFA10-3-tactile2 shaker idc1000 recov1-3 100 0 M1 [16, 17, 18, 19, 20] [24, 25, 9]-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9] - spikesorting output missing
+
+CFA10-3-tactile2 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9] - spikesorting output missing
+
+CFA10-3-tactile2 laser-3 2.15 0 L1 [1, 2] [24, 25, 9]-3 100 0 M1 [11, 12, 13, 14, 15] [24, 25, 9] - spikesorting output missing
+
+CFA10-3-pinch1 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA10-3-pinch1 pinch idc500-3 100 500 M3 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA10-3-pinch1 pinch idc1000-3 100 1000 M3 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA10-3-pinch1 pinch idc1000 recov1-3 100 0 M3 [6, 7, 8, 9, 10] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA10-3-pinch1 shaker-3 100 0 M1 [11, 12, 13, 14, 15] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA10-3-pinch1 laser-3 2.15 0 L1 [1, 2] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA11-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 pinch idc4000-1 100 4000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 pinch idc4000 recov5-1 100 0 M3 [6, 7, 8, 9, 10] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 pinch idc2000-1 100 2000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 pinch idc2000 recov8-1 100 0 M3 [11, 12, 13, 14, 15] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch1 laser-1 6.85 0 L1 [1, 2] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+CFA11-1-pinch2 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 pinch idc4000-1 100 4000 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 pinch idc4000 recov5-1 100 0 M3 [6, 7, 8, 9, 10] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 pinch idc2000-1 100 2000 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 pinch idc2000 recov8-1 100 0 M3 [11, 12, 13, 14, 15] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-pinch2 laser-1 6.85 0 L1 [1, 2] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 laser-1 6.85 0 L1 [1, 2] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 laser-1 6.85 0 L1 [3, 4] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 laser-1 6.85 0 L1 [5, 6] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 laser-1 6.85 0 L1 [7, 8] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 laser-1 6.85 0 L1 [9, 10] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 laser-1 6.85 0 L1 [11, 12] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 laser-1 6.85 0 L1 [13, 14] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 6.85 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA11-1-thermal2 laser-1 6.85 0 L1 [1, 2] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 laser-1 6.85 0 L1 [3, 4] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 laser-1 6.85 0 L1 [5, 6] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 laser-1 6.85 0 L1 [7, 8] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 laser-1 6.85 0 L1 [9, 10] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 laser-1 6.85 0 L1 [11, 12] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 laser-1 6.85 0 L1 [13, 14] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA11-1-thermal2 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [8, 24, 25]-1 6.85 0 L1 [1, 2] [8, 24, 25] - spikesorting output missing
+
+CFA12-1-pinch1 pinch-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA12-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA12-1-pinch1 pinch idc500 recov15-1 100 0 M3 [11, 12, 13, 14, 15] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA12-1-pinch1 pinch idc300-1 100 300 M3 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA12-1-pinch1 pinch idc300 recov15-1 100 0 M3 [16, 17, 18, 19, 20] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA12-1-pinch1 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA12-1-pinch1 pinch idc1000 recov15-1 100 0 M3 [21, 22, 23, 24, 25] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA12-1-pinch1 pinch idc1000 recov30-1 100 0 M3 [26, 27, 28, 29, 30] [5, 14, 29]-1 100 0 M3 [6, 7, 8, 9, 10] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal4 laser-1 2.15 0 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal4 laser-1 2.15 0 L1 [3, 4] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal4 laser idc500-1 2.15 500 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal4 laser idc1000-1 2.15 1000 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal4 laser idc1000 recov5-1 2.15 0 L1 [6, 7] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal4 laser idc-500-1 2.15 -500 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal4 laser idc-1000-1 2.15 -1000 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA13-1-thermal5 laser-1 2.15 0 L1 [1, 2] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 laser-1 2.15 0 L1 [3, 4] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 laser idc500-1 2.15 500 L1 [1, 2] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 laser idc1000-1 2.15 1000 L1 [1, 2] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 laser idc1000 recov5-1 2.15 0 L1 [6, 7] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 laser idc-500-1 2.15 -500 L1 [1, 2] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 laser idc-1000-1 2.15 -1000 L1 [1, 2] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-thermal5 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA13-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-pinch1 pinch idc-500-1 100 -500 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-pinch1 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-pinch1 pinch idc-1000-1 100 -1000 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-pinch1 pinch idc-1000 recov5-1 100 0 M3 [6, 7, 8, 9, 10] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-pinch1 laser-1 2.15 0 L1 [1, 2] [3, 15, 4]-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-tactile1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA13-1-tactile1 laser-1 2.15 0 L1 [1, 2] [3, 15, 4]-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4] - spikesorting output missing
+
+CFA14-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 3]-1 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+CFA14-1-tactile1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3]-1 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+CFA14-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3]-1 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+CFA14-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 3]-1 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+CFA15-1-prop1 motor-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14]-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+CFA15-1-prop1 motor idc500-1 100 500 M2 [1, 2, 3, 4, 5] [10, 5, 14]-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+CFA15-1-prop1 motor idc-500-1 100 -500 M2 [1, 2, 3, 4, 5] [10, 5, 14]-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+CFA15-1-prop1 motor idc-500 recov1-1 100 0 M2 [6, 7, 8, 9, 10] [10, 5, 14]-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+CFA15-1-prop1 motor idc1000-1 100 1000 M2 [1, 2, 3, 4, 5] [10, 5, 14]-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+CFA15-1-prop1 motor idc-1000-1 100 -1000 M2 [1, 2, 3, 4, 5] [10, 5, 14]-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+CFA15-1-prop1 motor idc-1000 recov1-1 100 0 M2 [11, 12, 13, 14, 15] [10, 5, 14]-1 100 0 M2 [1, 2, 3, 4, 5] [10, 5, 14] - spikesorting output missing
+
+CFA15-3-prop3 motor-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22]-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+CFA15-3-prop3 motor idc500-3 100 500 M2 [1, 2, 3, 4, 5] [17, 6, 22]-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+CFA15-3-prop3 motor idc-500-3 100 -500 M2 [1, 2, 3, 4, 5] [17, 6, 22]-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+CFA15-3-prop3 motor idc-500 recov1-3 100 0 M2 [11, 12, 13, 14, 15] [17, 6, 22]-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+CFA15-3-prop3 motor idc1000-3 100 1000 M2 [6, 7, 8, 9, 10] [17, 6, 22]-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+CFA15-3-prop3 motor idc-1000-3 100 -1000 M2 [6, 7, 8, 9, 10] [17, 6, 22]-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+CFA15-3-prop3 motor idc-1000 recov1-3 100 0 M2 [16, 17, 18, 19, 20] [17, 6, 22]-3 100 0 M2 [1, 2, 3, 4, 5] [17, 6, 22] - spikesorting output missing
+
+CFA15-4-thermal1 laser-4 2.15 0 L1 [1, 2] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA15-4-thermal1 laser idc500-4 2.15 500 L1 [1, 2] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA15-4-thermal1 laser idc-500-4 2.15 -500 L1 [1, 2] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA15-4-thermal1 laser idc-500 recov5-4 2.15 0 L1 [4, 5] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA15-4-thermal1 laser idc-500 recov10-4 2.15 0 L1 [6, 7] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA15-4-thermal1 laser idc-500 recov15-4 2.15 0 L1 [8, 9] [3, 15, 4]-4 2.15 0 L1 [1, 2] [3, 15, 4] - spikesorting output missing
+
+CFA15-4-thermal2 laser-4 2.15 0 L1 [1, 2] [27, 11, 8]-4 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA15-4-thermal2 laser idc500-4 2.15 500 L1 [1, 2] [27, 11, 8]-4 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA15-4-thermal2 laser idc-500-4 2.15 -500 L1 [1, 2] [27, 11, 8]-4 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA15-4-thermal2 laser idc-500 recov5-4 2.15 0 L1 [4, 5] [27, 11, 8]-4 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA15-4-thermal2 laser idc-500 recov10-4 2.15 0 L1 [6, 7] [27, 11, 8]-4 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA15-4-thermal2 laser idc-500 recov15-4 2.15 0 L1 [8, 9] [27, 11, 8]-4 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA15-5-thermal2 laser-5 2.69 0 L1 [1, 2] [24, 25, 9]-5 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+CFA15-5-thermal2 laser idc500-5 2.69 500 L1 [2, 3] [24, 25, 9]-5 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+CFA15-5-thermal2 laser idc500 recov15-5 2.69 0 L1 [4, 5] [24, 25, 9]-5 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+CFA15-5-thermal2 laser idc1000-5 2.69 1000 L1 [1, 2] [24, 25, 9]-5 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+CFA15-5-thermal2 laser idc1000 recov10-5 2.69 0 L1 [7, 8] [24, 25, 9]-5 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+CFA15-5-thermal2 shaker-5 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-5 2.69 0 L1 [1, 2] [24, 25, 9] - spikesorting output missing
+
+CFA16-1-thermal1 laser-1 2.15 0 L1 [1, 2] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc500-1 2.15 500 L1 [3, 4] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc500 recov10-1 2.15 0 L1 [4, 5] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc1000-1 2.15 1000 L1 [3, 4] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc1000 recov10-1 2.15 0 L1 [7, 8] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc1000 recov15-1 2.15 0 L1 [9, 10] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc-500-1 2.15 -500 L1 [3, 4] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc-1000-1 2.15 -1000 L1 [3, 4] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc-1000 recov10-1 2.15 0 L1 [12, 13] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 laser idc-1000 recov10-1 2.15 0 L1 [14, 15] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 2.15 0 L1 [1, 2] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-thermal2 laser-1 2.15 0 L1 [1, 2] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc500-1 2.15 500 L1 [3, 4] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc500 recov10-1 2.15 0 L1 [4, 5] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc1000-1 2.15 1000 L1 [3, 4] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc1000 recov10-1 2.15 0 L1 [7, 8] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc1000 recov15-1 2.15 0 L1 [9, 10] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc-500-1 2.15 -500 L1 [3, 4] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc-1000-1 2.15 -1000 L1 [3, 4] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc-1000 recov10-1 2.15 0 L1 [12, 13] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 laser idc-1000 recov15-1 2.15 0 L1 [14, 15] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-thermal2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8]-1 2.15 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA16-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile1 shaker idc1000 recov1-1 100 0 M1 [6, 7, 8, 9, 10] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile1 shaker idc-500-1 100 -500 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile1 shaker idc-1000-1 100 -1000 M1 [1, 2, 3, 4, 5] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile1 shaker idc-1000 recov1-1 100 0 M1 [11, 12, 13, 14, 15] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile1 laser-1 2.15 0 L1 [1, 2] [5, 14, 29]-1 100 0 M1 [1, 2, 3, 4, 5] [5, 14, 29] - spikesorting output missing
+
+CFA16-1-tactile2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA16-1-tactile2 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA16-1-tactile2 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA16-1-tactile2 shaker idc1000 recov1-1 100 0 M1 [6, 7, 8, 9, 10] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA16-1-tactile2 shaker idc-500-1 100 -500 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA16-1-tactile2 shaker idc-1000-1 100 -1000 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA16-1-tactile2 shaker idc-1000 recov1-1 100 0 M1 [11, 12, 13, 14, 15] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA16-1-tactile2 laser-1 2.15 0 L1 [1, 2] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc500-1 100 500 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc500 recov1-1 100 0 M1 [16, 17, 18, 19, 20] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc-500-1 100 -500 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc-1000-1 100 -1000 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc1000-1 100 1000 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc1000 recov1-1 100 0 M1 [21, 22, 23, 24, 25] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc1000 recov4-1 100 0 M1 [26, 27, 28, 29, 30] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc1000 recov8-1 100 0 M1 [31, 32, 33, 34, 35] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 shaker idc1000 recov20-1 100 0 M1 [36, 37, 38, 39, 40] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 spon-1 0 0 M1 [1, 2, 3, 4, 5] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-tactile1 laser-1 2.15 0 L1 [1, 2] [12, 1, 17]-1 100 0 M1 [1, 2, 3, 4, 5] [12, 1, 17] - spikesorting output missing
+
+CFA17-1-thermal1 laser-1 2.15 0 L1 [1, 2] [30, 10, 5]-1 2.15 0 L1 [1, 2] [30, 10, 5] - spikesorting output missing
+
+CFA17-1-thermal1 laser-1 2.15 0 L1 [3, 4] [30, 10, 5]-1 2.15 0 L1 [1, 2] [30, 10, 5] - spikesorting output missing
+
+CFA17-1-thermal1 laser idc-500-1 2.15 -500 L1 [2, 3] [30, 10, 5]-1 2.15 0 L1 [1, 2] [30, 10, 5] - spikesorting output missing
+
+CFA17-1-thermal1 laser idc-500 recov15-1 2.15 0 L1 [5, 6] [30, 10, 5]-1 2.15 0 L1 [1, 2] [30, 10, 5] - spikesorting output missing
+
+CFA17-1-thermal1 laser idc-500 recov20-1 2.15 0 L1 [7, 8] [30, 10, 5]-1 2.15 0 L1 [1, 2] [30, 10, 5] - spikesorting output missing
+
+CFA17-1-thermal1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [30, 10, 5]-1 2.15 0 L1 [1, 2] [30, 10, 5] - spikesorting output missing
+
+CFA17-3-prop1 motor-3 100 0 M2 [1, 2, 3, 4, 5] [30, 10, 5]-3 100 0 M2 [1, 2, 3, 4, 5] [30, 10, 5] - spikesorting output missing
+
+CFA06-2-pinch1 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3]-2 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+CFA06-2-pinch1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 3]-2 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+CFA06-3-pinch2 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [1, 17, 6]-3 100 0 M3 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA06-3-pinch2 laser-3 2.15 0 L1 [1] [1, 17, 6]-3 100 0 M3 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA06-3-pinch2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [1, 17, 6]-3 100 0 M3 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-1-thermal1 laser-1 2.15 0 L1 [1] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 laser-1 2.15 0 L1 [2] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 laser-1 2.15 0 L1 [3] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 laser-1 2.15 0 L1 [4] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 laser-1 2.15 0 L1 [5] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 laser-1 2.15 0 L1 [6] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 motor-1 100 0 M2 [6, 7, 8, 9, 10] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-thermal1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [3, 15, 4]-1 2.15 0 L1 [1] [3, 15, 4] - spikesorting output missing
+
+CFA07-1-prop1 motor-1 100 0 M2 [6, 7, 8, 9, 10] [21, 31, 18]-1 100 0 M2 [6, 7, 8, 9, 10] [21, 31, 18] - spikesorting output missing
+
+CFA07-1-prop1 laser-1 2.15 0 L1 [1] [21, 31, 18]-1 100 0 M2 [6, 7, 8, 9, 10] [21, 31, 18] - spikesorting output missing
+
+CFA07-1-prop1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [21, 31, 18]-1 100 0 M2 [6, 7, 8, 9, 10] [21, 31, 18] - spikesorting output missing
+
+CFA07-1-prop1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [21, 31, 18]-1 100 0 M2 [6, 7, 8, 9, 10] [21, 31, 18] - spikesorting output missing
+
+CFA07-3-prop2 motor-3 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6]-3 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-3-prop2 laser-3 2.15 0 L1 [1] [1, 17, 6]-3 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-3-prop2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [1, 17, 6]-3 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-3-prop2 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [1, 17, 6]-3 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-4-prop3 motor-4 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6]-4 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-4-prop3 laser-4 2.15 0 L1 [1] [1, 17, 6]-4 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-4-prop3 shaker-4 100 0 M1 [1, 2, 3, 4, 5] [1, 17, 6]-4 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA07-4-prop3 pinch-4 100 0 M3 [1, 2, 3, 4, 5] [1, 17, 6]-4 100 0 M2 [1, 2, 3, 4, 5] [1, 17, 6] - spikesorting output missing
+
+CFA08-1-thermal2 laser-1 6.85 0 L1 [1, 2] [27, 11, 8]-1 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA08-1-thermal2 laser-1 6.85 0 L1 [3, 4] [27, 11, 8]-1 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA08-1-thermal2 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8]-1 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA08-1-thermal2 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8]-1 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA08-2-pinch1 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8]-2 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA08-2-pinch1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8]-2 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA08-2-pinch1 laser-2 6.85 0 L1 [1, 2] [27, 11, 8]-2 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+CFA08-2-thermal3 laser-2 6.85 0 L1 [1, 2] [27, 11, 8]-2 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA08-2-thermal3 laser-2 6.85 0 L1 [3, 4] [27, 11, 8]-2 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA08-2-thermal3 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8]-2 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+CFA08-2-thermal3 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8]-2 6.85 0 L1 [1, 2] [27, 11, 8] - spikesorting output missing
+
+SPC52-2-pinch1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [7, 13, 3]-2 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+SPC52-2-pinch1 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3]-2 100 0 M3 [1, 2, 3, 4, 5] [7, 13, 3] - spikesorting output missing
+
+SPC52-3-pinch1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [18, 7, 13]-3 100 0 M3 [1, 2, 3, 4, 5] [18, 7, 13] - spikesorting output missing
+
+SPC52-3-pinch1 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [18, 7, 13]-3 100 0 M3 [1, 2, 3, 4, 5] [18, 7, 13] - spikesorting output missing
+
+SPC52-3-pinch2 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SPC52-3-pinch2 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8]-3 100 0 M3 [1, 2, 3, 4, 5] [27, 11, 8] - spikesorting output missing
+
+SPC53-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [8, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC53-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [8, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC53-2-tactile1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [11, 8, 24]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 8, 24] - spikesorting output missing
+
+SPC53-2-tactile1 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [11, 8, 24]-2 100 0 M1 [1, 2, 3, 4, 5] [11, 8, 24] - spikesorting output missing
+
+SPC53-2-pinch1 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-2-pinch1 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-2-pinch1 pinch idc-500-2 100 -500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-2-pinch1 pinch idc1000-2 100 1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-2-pinch1 pinch idc-1000-2 100 -1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-2-pinch1 pinch idc500-2 100 500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-2 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-3-pinch1 shaker-3 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-3-pinch1 pinch-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-3-pinch1 pinch idc-500-3 100 -500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-3-pinch1 pinch idc1000-3 100 1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-3-pinch1 pinch idc-1000-3 100 -1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC53-3-pinch1 pinch idc500-3 100 500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-3 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC54-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [8, 9, 10, 11, 12] [17, 6, 22] - spikesorting output missing
+
+SPC54-1-pinch1 pinch-1 100 0 M3 [8, 9, 10, 11, 12] [17, 6, 22]-1 100 0 M3 [8, 9, 10, 11, 12] [17, 6, 22] - spikesorting output missing
+
+SPC54-1-pinch1 pinch idc-500-1 100 -500 M3 [1, 2, 3, 4, 5] [17, 6, 22]-1 100 0 M3 [8, 9, 10, 11, 12] [17, 6, 22] - spikesorting output missing
+
+SPC55-1-pinch1 shaker-1 100 0 M1 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC55-1-pinch1 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC55-1-pinch1 pinch idc-500-1 100 -500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC55-1-pinch1 pinch idc1000-1 100 1000 M3 [1, 2, 3, 4, 5, 6] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC55-1-pinch1 pinch idc-1000-1 100 -1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC55-1-pinch1 pinch idc500-1 100 500 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC55-1-pinch1 pinch idc-1000-1 100 -1000 M3 [1, 2, 3, 4, 5] [24, 25, 9]-1 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SPC57-1-8, 24, 25 pinch-1 100 0 M3 [1, 2, 3, 4, 5] [8, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC57-1-8, 24, 25 shaker-1 100 0 M1 [2, 3, 4, 5, 6] [8, 24, 25]-1 100 0 M3 [1, 2, 3, 4, 5] [8, 24, 25] - spikesorting output missing
+
+SPC57-2-6, 22, 27 pinch-2 100 0 M3 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M3 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+SPC57-2-6, 22, 27 shaker-2 100 0 M1 [1, 2, 3, 4, 5] [6, 22, 27]-2 100 0 M3 [1, 2, 3, 4, 5] [6, 22, 27] - spikesorting output missing
+
+
+---CSV Exporting 2024-04-11T19:22:07.750---
+
+SNT07-4-pinch2 pinch idc-1000 recov1-4 100 0 M3 [31, 32, 33, 34, 35] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+SNT07-4-pinch2 pinch idc-1000 recov10-4 100 0 M3 [36, 37, 38, 39, 40] [24, 25, 9]-4 100 0 M3 [1, 2, 3, 4, 5] [24, 25, 9] - spikesorting output missing
+
+
