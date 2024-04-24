@@ -17,7 +17,15 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Email: f.aplin@unsw.edu.au
 
-# Files and Folders
+# File Directory
+
+### package_installer.jl
+Installs all packages used throughout the .JL scripts.
+
+### saved_files_info.xlsx
+Metadata regarding .JLD2 files at various stages of the pipeline. Some internal notes made during
+analysis are present.
+
 ## 1_main_analysis/
 ### 1_loading.jl
 Loads raw data files collected using an INTAN RHS Stim-Recording System (saved in the .RHS format)
@@ -116,12 +124,5 @@ Data saved from spikesorting.jl in a .JLD2 format. Used as input in csv_export.j
 ## spikesorting_templates
 Template data saved from template_generation.jl in a .JLD2 format. Used as input in spikesorting.jl.
 
-### src
+## src
 Source files containing functions used throughout the .JL scripts.
-
-## package_installer.jl
-Installs all packages used throughout the .JL scripts.
-
-## saved_files_info.xlsx
-Metadata regarding .JLD2 files at various stages of the pipeline. Some internal notes made during
-analysis are present.
